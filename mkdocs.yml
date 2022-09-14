@@ -1,0 +1,9 @@
+site_name: FakeSite
+site_url: https://spisakt.github.io/fakesite
+nav:
+    - Home: index.md
+    - Version 2.x:
+        - Songs: 
+            - Mistyness: songs/mistyness.md
+
+theme: readthedocs
