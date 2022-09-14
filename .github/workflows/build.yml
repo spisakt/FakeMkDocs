@@ -27,8 +27,7 @@ jobs:
       - run: python keygen.py
       - run: git config user.name 'github-actions[bot]' && git config user.email 'github-actions[bot]@users.noreply.github.com'
       - run: |
-            git add docs/songs/*
-            git commit -m "autogen"
+            git commit -m "autogen" -a
             git push origin main
       - name: Publish docs
         run: mkdocs gh-deploy
