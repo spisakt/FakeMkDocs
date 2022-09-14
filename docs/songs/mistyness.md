@@ -1,4 +1,6 @@
-# Mistyness chords
+# Similar
+
+# Backing tracks
 
 ## C
 
@@ -55,6 +57,3 @@
 |       | Amaj7  	| %      	| Amin7  	| D7 	    |
 |       | Emaj7  	| Dbmin7 	| Gbmin7 	| B7 	    |
 
-# Similar
-
-# Backing tracks
