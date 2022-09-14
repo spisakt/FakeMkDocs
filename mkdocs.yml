@@ -1,9 +1,9 @@
 nav:
 - Home: index.md
 - Songs:
+  - Just Friends: songs/justfriends.md
   - Another You: songs/anotheryou.md
   - Misty: songs/misty.md
-  - Just Friends: songs/justfriends.md
 site_name: FakeSite
 site_url: https://spisakt.github.io/fakesite
 theme: slate
