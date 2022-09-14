@@ -40,6 +40,7 @@ jobs:
       - run: pip install --upgrade pip && pip install mkdocs mkdocs-gen-files mkdocs-bootswatch
       - run: git config user.name 'github-actions[bot]' && git config user.email 'github-actions[bot]@users.noreply.github.com'
       - run: git pull
+      - run: ls docs/songs
       - name: Publish docs
         run: mkdocs gh-deploy
         
