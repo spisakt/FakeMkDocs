@@ -1,40 +1,60 @@
-# Mistyness
+# Mistyness chords
 
-## Chords
+## C
 
 |       |         |         |         |         |
 |------ |--------	|--------	|--------	|-------	|
 |   A   |         |         |         |         |
-| 11 3  | 7       |     1 9 | 3 9     | 13 5 3 9|
 |       | Emaj7  	| %      	| Bmin7  	| E7 	    |
-|       | 5       |     1 9 | 3 9     | 13 5 3 9|
 |       | Amaj7  	| %      	| Amin7  	| D7 	    |
-|       | 3 11 5  | 3 11 5  | 3 5     | 3       |
 |       | Emaj7  	| Dbmin7 	| Gbmin7 	| B7 	    |
-|  A1   |         |         |         |         |
 |       | 3 1 7   | 3 11 5  | 3 1 7   | 3       |
 |       | Abmin7 	| Db7    	| Gbmin7 	| B7 	    |
-|  A2   |         |         |         |         |
 |       | 3 1 7   | 3 11 5  | 3 1 7   | 3       |
 |       | Abmin7 	| Db7    	| Gbmin7 	| B7 	    |
+|       |         |         |         |         |
+|   B   |         |         |         |         |
+|       | Emaj7  	| %      	| Bmin7  	| E7 	    |
+|       | Amaj7  	| %      	| Amin7  	| D7 	    |
+|       | Emaj7  	| Dbmin7 	| Gbmin7 	| B7 	    |
+
+
+## E
 
 |       |         |         |         |         |
 |------ |--------	|--------	|--------	|-------	|
-|   B   |         |         |         |         |
-| 11 3  | 7       |     1 9 | 3 9     | 13 5 3 9|
+|   A   |         |         |         |         |
 |       | Emaj7  	| %      	| Bmin7  	| E7 	    |
-|       | 5       |     1 9 | 3 9     | 13 5 3 9|
 |       | Amaj7  	| %      	| Amin7  	| D7 	    |
-|       | 3 11 5  | 3 11 5  | 3 5     | 3       |
 |       | Emaj7  	| Dbmin7 	| Gbmin7 	| B7 	    |
-|  A1   |         |         |         |         |
 |       | 3 1 7   | 3 11 5  | 3 1 7   | 3       |
 |       | Abmin7 	| Db7    	| Gbmin7 	| B7 	    |
-|  A2   |         |         |         |         |
 |       | 3 1 7   | 3 11 5  | 3 1 7   | 3       |
 |       | Abmin7 	| Db7    	| Gbmin7 	| B7 	    |
+|       |         |         |         |         |
+|   B   |         |         |         |         |
+|       | Emaj7  	| %      	| Bmin7  	| E7 	    |
+|       | Amaj7  	| %      	| Amin7  	| D7 	    |
+|       | Emaj7  	| Dbmin7 	| Gbmin7 	| B7 	    |
 
+## D
 
-## Similar
+|       |         |         |         |         |
+|------ |--------	|--------	|--------	|-------	|
+|   A   |         |         |         |         |
+|       | Emaj7  	| %      	| Bmin7  	| E7 	    |
+|       | Amaj7  	| %      	| Amin7  	| D7 	    |
+|       | Emaj7  	| Dbmin7 	| Gbmin7 	| B7 	    |
+|       | 3 1 7   | 3 11 5  | 3 1 7   | 3       |
+|       | Abmin7 	| Db7    	| Gbmin7 	| B7 	    |
+|       | 3 1 7   | 3 11 5  | 3 1 7   | 3       |
+|       | Abmin7 	| Db7    	| Gbmin7 	| B7 	    |
+|       |         |         |         |         |
+|   B   |         |         |         |         |
+|       | Emaj7  	| %      	| Bmin7  	| E7 	    |
+|       | Amaj7  	| %      	| Amin7  	| D7 	    |
+|       | Emaj7  	| Dbmin7 	| Gbmin7 	| B7 	    |
 
-## Backing tracks
+# Similar
+
+# Backing tracks
