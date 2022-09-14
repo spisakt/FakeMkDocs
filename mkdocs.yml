@@ -2,8 +2,7 @@ site_name: FakeSite
 site_url: https://spisakt.github.io/fakesite
 nav:
     - Home: index.md
-        - Songs: 
-            - Mistyness: docs/songs/mistyness.md
-
-theme: mkdocs
-    
+    - Songs: 
+        - Mistyness: docs/songs/mistyness.md
+        
+theme: slate
