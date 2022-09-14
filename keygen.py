@@ -79,9 +79,16 @@ for f in glob.glob('songs/*.y?ml'):
                             quality = tokens[1]
                             if len(tokens) > 2:
                                 extensions = tokens[2:]
-                        docfile.write(' | ' + degree + quality + ' ' + str(extensions) + '\t')
+                        extensions_str = '<sup>'
+                        for i, e in enumerate(extensions):
+                            extensions_str += e
+                            if i != len(extensions)-1:
+                                extensions += ','
+                        extensions_str += '</sup>'
+                        docfile.write(' | ' + degree + quality + ' ' + extensions_str + '\t')
                     docfile.write(' |' + os.linesep)
-                docfile.write(os.linesep + os.linesep)
+                docfile.write(os.linesep)
+            docfile.write(os.linesep)
 
 mkdocs_yaml['nav'][1]['Songs'] = songs
 
