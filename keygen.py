@@ -47,7 +47,7 @@ for f in glob.glob('songs/*.y?ml'):
 
         docfile.write('#  ' + 'Keys' + os.linesep)
         docfile.write('Common keys:' + os.linesep)
-        for k in song['commonkeys']
+        for k in song['commonkeys']:
             docfile.write(' - ' + '['+k+'](#'+k+')' + os.linesep)
 
         for key in ['Roman Numeral'] + _keys_.tolist():
