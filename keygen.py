@@ -27,7 +27,7 @@ for f in glob.glob('songs/*.y?ml'):
         print(song)
 
     outfile = os.path.splitext(f)[0] + '.md'
-    songs.append({song['title'] : 'docs/' + outfile})
+    songs.append({song['title'] : outfile})
     with open('docs/' + outfile, 'w') as docfile:
         docfile.write('# ' + song['title'] + os.linesep)
         docfile.write('' + song['description'] + os.linesep)
