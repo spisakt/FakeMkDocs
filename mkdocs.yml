@@ -1,7 +1,9 @@
+site_name: FakeSite
+site_url: https://spisakt.github.io/fakesite
+theme: slate
 nav:
 - Home: index.md
 - Songs:
   - A song: this is generated automatically
-site_name: FakeSite
-site_url: https://spisakt.github.io/fakesite
-theme: slate
+
+
