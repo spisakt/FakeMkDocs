@@ -83,7 +83,7 @@ for f in glob.glob('songs/*.y?ml'):
                         for i, e in enumerate(extensions):
                             extensions_str += e
                             if i != len(extensions)-1:
-                                extensions += ','
+                                extensions_str += ','
                         extensions_str += '</sup>'
                         docfile.write(' | ' + degree + quality + ' ' + extensions_str + '\t')
                     docfile.write(' |' + os.linesep)
