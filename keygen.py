@@ -45,14 +45,21 @@ for f in glob.glob('songs/*.y?ml'):
             docfile.write(' ' + i['description'] + os.linesep)
         docfile.write(os.linesep)
 
+        docfile.write('#  ' + 'Keys' + os.linesep)
+        docfile.write('Common keys:' + os.linesep)
+        for k in song['commonkeys']
+            docfile.write(' - ' + '['+k+'](#'+k+')' + os.linesep)
+
         for key in ['Roman Numeral'] + _keys_.tolist():
-            docfile.write('# ' + key + os.linesep)
+            docfile.write('## ' + key + os.linesep)
             for part in song['chords']:
-                docfile.write('## ' + part + os.linesep)
                 lines = song['chords'][part].split('\n')
                 # print table header
                 for i in range(len(lines[0].split())):
-                    docfile.write(' |  \t')
+                    if i==0:
+                        docfile.write(' | ' + part + '\t')
+                    else:
+                        docfile.write(' |  \t')
                 docfile.write('|' + os.linesep)
                 for i in range(len(lines[0].split())):
                     docfile.write(' |----------\t')
