@@ -3,6 +3,6 @@ site_url: https://spisakt.github.io/fakesite
 nav:
     - Home: index.md
     - Songs: 
-        - Mistyness: docs/songs/mistyness.md
+        - Mistyness: songs/mistyness.md
         
 theme: slate
