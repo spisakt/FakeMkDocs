@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://spisakt.github.io/fakesite/songs/justfriends/</loc>
+         <lastmod>2022-09-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://spisakt.github.io/fakesite/songs/misty/</loc>
          <lastmod>2022-09-14</lastmod>
          <changefreq>daily</changefreq>
