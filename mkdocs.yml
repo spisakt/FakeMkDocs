@@ -4,7 +4,7 @@ nav:
     - Home: index.md
     - Version 2.x:
         - Songs: 
-            - Mistyness: songs/mistyness.md
+            - Mistyness: docs/songs/mistyness.md
 
 theme:
     name: mkdocs
