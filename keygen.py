@@ -17,14 +17,17 @@ def transpose(degree, key):
         return degree
     return _keys_[(np.argwhere(_numerals_ == 'I').flatten()[0] + np.argwhere(_keys_ == 'C').flatten()[0])%12]
 
+with open('mkdocs.yml', 'r') as file:
+    mkdocs_yaml = yaml.safe_load(file)
 
+songs = []
 for f in glob.glob('songs/*.y?ml'):
     with open(f, 'r') as file:
         song = yaml.safe_load(file)
         print(song)
 
     outfile = os.path.splitext(f)[0] + '.md'
-    print(outfile)
+    songs.append({song['title'] : 'docs/' + outfile})
     with open('docs/' + outfile, 'w') as docfile:
         docfile.write('# ' + song['title'] + os.linesep)
         docfile.write('' + song['description'] + os.linesep)
@@ -65,7 +68,6 @@ for f in glob.glob('songs/*.y?ml'):
                                 quality = ''
                                 extensions = tokens[1:]
                         else:
-                            print(degree, key)
                             degree = transpose(degree, key)
                             quality = tokens[1]
                             if len(tokens) > 2:
@@ -74,22 +76,8 @@ for f in glob.glob('songs/*.y?ml'):
                     docfile.write(' |' + os.linesep)
                 docfile.write(os.linesep + os.linesep)
 
+mkdocs_yaml['nav'][1]['Songs'] = songs
 
-
-
-
-
-
-
-
-#
-
-#print(song)
-
-
-#with open('mkdocs.yml', 'r') as file:
-#    mkdocs_yaml = yaml.safe_load(file)
-
-#with open('names.yaml', 'w') as file:
-#    yaml.dump(yaml.safe_load(mkdocs_yaml), file)
+with open('mkdocs.yml', 'w') as file:
+    yaml.dump(mkdocs_yaml, file)
 
