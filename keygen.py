@@ -15,7 +15,7 @@ _numerals_ = np.array([
 def transpose(degree, key):
     if key == 'Roman Numeral':
         return degree
-    return _keys_[(np.argwhere(_numerals_ == 'I').flatten()[0] + np.argwhere(_keys_ == 'C').flatten()[0])%12]
+    return _keys_[(np.argwhere(_numerals_ == degree).flatten()[0] + np.argwhere(_keys_ == key).flatten()[0])%12]
 
 with open('mkdocs.yml', 'r') as file:
     mkdocs_yaml = yaml.safe_load(file)
