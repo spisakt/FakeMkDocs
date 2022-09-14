@@ -5,5 +5,5 @@ nav:
         - Songs: 
             - Mistyness: docs/songs/mistyness.md
 
-theme: slate
+theme: mkdocs
     
