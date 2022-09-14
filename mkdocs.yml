@@ -1,8 +1,8 @@
 nav:
 - Home: index.md
 - Songs:
-  - Another You: docs/songs/anotheryou.md
-  - Misty: docs/songs/misty.md
+  - Another You: songs/anotheryou.md
+  - Misty: songs/misty.md
 site_name: FakeSite
 site_url: https://spisakt.github.io/fakesite
 theme: slate
