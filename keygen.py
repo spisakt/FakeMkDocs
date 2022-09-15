@@ -4,18 +4,18 @@ import os
 import numpy as np
 
 _keys_ = np.array([
-    'C', 'Db', 'D', 'Eb', 'E', 'F', 'Gb', 'G', 'Bb', 'B', 'Cb'
+    'C', 'Db', 'D', 'Eb', 'E', 'F', 'Gb', 'G', 'Ab', 'A', 'Bb', 'B',
 ])
 
 _numerals_ = np.array([
-    'I', 'bII', 'II', 'bIII', 'III', 'IV', 'bV', 'V', 'vVI', 'VI', 'bVII', 'VII'
+    'I', 'bII', 'II', 'bIII', 'III', 'IV', 'bV', 'V', 'bVI', 'VI', 'bVII', 'VII'
 ])
 
 
 def transpose(degree, key):
     if key == 'Roman Numeral':
         return degree
-    return _keys_[(np.argwhere(_numerals_ == degree).flatten()[0] + np.argwhere(_keys_ == key).flatten()[0]) % 11]
+    return _keys_[(np.argwhere(_numerals_ == degree).flatten()[0] + np.argwhere(_keys_ == key).flatten()[0]) % 12]
 
 with open('mkdocs.yml', 'r') as file:
     mkdocs_yaml = yaml.safe_load(file)
