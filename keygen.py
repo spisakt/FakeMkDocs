@@ -86,7 +86,6 @@ for f in glob.glob('songs/*.y?ml'):
                         extensions_str += '</sup>'
                         docfile.write(' | ' + degree + quality + ' ' + extensions_str + '\t')
                     docfile.write(' |' + os.linesep)
-                docfile.write(os.linesep)
             docfile.write(os.linesep)
 
 mkdocs_yaml['nav'][1]['Songs'] = songs
