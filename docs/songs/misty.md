@@ -19,8 +19,8 @@ Common keys:
 ## Roman Numeral
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | I6 <sup>5,3,7</sup>	 | %6 	 | Vmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
- | IV6 <sup>5</sup>	 | %6 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
+ | I6 <sup>5,3,7</sup>	 | % 	 | Vmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
+ | IV6 <sup>5</sup>	 | % 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
  | I6 <sup>3,11,5</sup>	 | VImin7 <sup>3,11,5</sup>	 | IImin7 <sup>3,5</sup>	 | %dim <sup>3,11,3</sup>	 |
  |
 
@@ -31,14 +31,14 @@ Common keys:
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | I6 	 | IVmin6 	 | Imaj7 	 | %maj7 	 |
+ | I6 	 | IVmin6 	 | Imaj7 	 | % 	 |
  |
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | Vmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | Vdim <sup>9</sup>	 | %9 <sup>1,6,5</sup>	 |
- | IV6 <sup>5</sup>	 | %6 	 | %6 	 | %6 	 |
- | bVmin7 	 | %min7 	 | %min6 	 | %min6 	 |
+ | IV6 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | bVmin7 	 | % 	 | %min6 	 | %min6 	 |
  | IIImin7 <sup>3</sup>	 | %dim 	 | IImin7 	 | %7 <sup>3</sup>	 |
  |
 
@@ -46,8 +46,8 @@ Common keys:
 ## C
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | C6 <sup>5,3,7</sup>	 | %6 	 | Gmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
- | F6 <sup>5</sup>	 | %6 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
+ | C6 <sup>5,3,7</sup>	 | % 	 | Gmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
+ | F6 <sup>5</sup>	 | % 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
  | C6 <sup>3,11,5</sup>	 | Amin7 <sup>3,11,5</sup>	 | Dmin7 <sup>3,5</sup>	 | %dim <sup>3,11,3</sup>	 |
  |
 
@@ -58,14 +58,14 @@ Common keys:
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | C6 	 | Fmin6 	 | Cmaj7 	 | %maj7 	 |
+ | C6 	 | Fmin6 	 | Cmaj7 	 | % 	 |
  |
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | Gmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | Gdim <sup>9</sup>	 | %9 <sup>1,6,5</sup>	 |
- | F6 <sup>5</sup>	 | %6 	 | %6 	 | %6 	 |
- | Gbmin7 	 | %min7 	 | %min6 	 | %min6 	 |
+ | F6 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Gbmin7 	 | % 	 | %min6 	 | %min6 	 |
  | Emin7 <sup>3</sup>	 | %dim 	 | Dmin7 	 | %7 <sup>3</sup>	 |
  |
 
@@ -73,8 +73,8 @@ Common keys:
 ## Db
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Db6 <sup>5,3,7</sup>	 | %6 	 | Abmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
- | Gb6 <sup>5</sup>	 | %6 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
+ | Db6 <sup>5,3,7</sup>	 | % 	 | Abmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
+ | Gb6 <sup>5</sup>	 | % 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
  | Db6 <sup>3,11,5</sup>	 | Bbmin7 <sup>3,11,5</sup>	 | Ebmin7 <sup>3,5</sup>	 | %dim <sup>3,11,3</sup>	 |
  |
 
@@ -85,14 +85,14 @@ Common keys:
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Db6 	 | Gbmin6 	 | Dbmaj7 	 | %maj7 	 |
+ | Db6 	 | Gbmin6 	 | Dbmaj7 	 | % 	 |
  |
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | Abmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | Abdim <sup>9</sup>	 | %9 <sup>1,6,5</sup>	 |
- | Gb6 <sup>5</sup>	 | %6 	 | %6 	 | %6 	 |
- | Gmin7 	 | %min7 	 | %min6 	 | %min6 	 |
+ | Gb6 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Gmin7 	 | % 	 | %min6 	 | %min6 	 |
  | Fmin7 <sup>3</sup>	 | %dim 	 | Ebmin7 	 | %7 <sup>3</sup>	 |
  |
 
@@ -100,8 +100,8 @@ Common keys:
 ## D
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | D6 <sup>5,3,7</sup>	 | %6 	 | Amin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
- | G6 <sup>5</sup>	 | %6 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
+ | D6 <sup>5,3,7</sup>	 | % 	 | Amin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
+ | G6 <sup>5</sup>	 | % 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
  | D6 <sup>3,11,5</sup>	 | Bmin7 <sup>3,11,5</sup>	 | Emin7 <sup>3,5</sup>	 | %dim <sup>3,11,3</sup>	 |
  |
 
@@ -112,14 +112,14 @@ Common keys:
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | D6 	 | Gmin6 	 | Dmaj7 	 | %maj7 	 |
+ | D6 	 | Gmin6 	 | Dmaj7 	 | % 	 |
  |
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | Amin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | Adim <sup>9</sup>	 | %9 <sup>1,6,5</sup>	 |
- | G6 <sup>5</sup>	 | %6 	 | %6 	 | %6 	 |
- | Abmin7 	 | %min7 	 | %min6 	 | %min6 	 |
+ | G6 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Abmin7 	 | % 	 | %min6 	 | %min6 	 |
  | Gbmin7 <sup>3</sup>	 | %dim 	 | Emin7 	 | %7 <sup>3</sup>	 |
  |
 
@@ -127,8 +127,8 @@ Common keys:
 ## Eb
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Eb6 <sup>5,3,7</sup>	 | %6 	 | Bbmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
- | Ab6 <sup>5</sup>	 | %6 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
+ | Eb6 <sup>5,3,7</sup>	 | % 	 | Bbmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
+ | Ab6 <sup>5</sup>	 | % 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
  | Eb6 <sup>3,11,5</sup>	 | Cmin7 <sup>3,11,5</sup>	 | Fmin7 <sup>3,5</sup>	 | %dim <sup>3,11,3</sup>	 |
  |
 
@@ -139,14 +139,14 @@ Common keys:
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Eb6 	 | Abmin6 	 | Ebmaj7 	 | %maj7 	 |
+ | Eb6 	 | Abmin6 	 | Ebmaj7 	 | % 	 |
  |
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | Bbmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | Bbdim <sup>9</sup>	 | %9 <sup>1,6,5</sup>	 |
- | Ab6 <sup>5</sup>	 | %6 	 | %6 	 | %6 	 |
- | Amin7 	 | %min7 	 | %min6 	 | %min6 	 |
+ | Ab6 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Amin7 	 | % 	 | %min6 	 | %min6 	 |
  | Gmin7 <sup>3</sup>	 | %dim 	 | Fmin7 	 | %7 <sup>3</sup>	 |
  |
 
@@ -154,8 +154,8 @@ Common keys:
 ## E
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | E6 <sup>5,3,7</sup>	 | %6 	 | Bmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
- | A6 <sup>5</sup>	 | %6 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
+ | E6 <sup>5,3,7</sup>	 | % 	 | Bmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
+ | A6 <sup>5</sup>	 | % 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
  | E6 <sup>3,11,5</sup>	 | Dbmin7 <sup>3,11,5</sup>	 | Gbmin7 <sup>3,5</sup>	 | %dim <sup>3,11,3</sup>	 |
  |
 
@@ -166,14 +166,14 @@ Common keys:
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | E6 	 | Amin6 	 | Emaj7 	 | %maj7 	 |
+ | E6 	 | Amin6 	 | Emaj7 	 | % 	 |
  |
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | Bmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | Bdim <sup>9</sup>	 | %9 <sup>1,6,5</sup>	 |
- | A6 <sup>5</sup>	 | %6 	 | %6 	 | %6 	 |
- | Bbmin7 	 | %min7 	 | %min6 	 | %min6 	 |
+ | A6 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Bbmin7 	 | % 	 | %min6 	 | %min6 	 |
  | Abmin7 <sup>3</sup>	 | %dim 	 | Gbmin7 	 | %7 <sup>3</sup>	 |
  |
 
@@ -181,8 +181,8 @@ Common keys:
 ## F
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | F6 <sup>5,3,7</sup>	 | %6 	 | Cmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
- | Bb6 <sup>5</sup>	 | %6 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
+ | F6 <sup>5,3,7</sup>	 | % 	 | Cmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
+ | Bb6 <sup>5</sup>	 | % 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
  | F6 <sup>3,11,5</sup>	 | Dmin7 <sup>3,11,5</sup>	 | Gmin7 <sup>3,5</sup>	 | %dim <sup>3,11,3</sup>	 |
  |
 
@@ -193,14 +193,14 @@ Common keys:
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | F6 	 | Bbmin6 	 | Fmaj7 	 | %maj7 	 |
+ | F6 	 | Bbmin6 	 | Fmaj7 	 | % 	 |
  |
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | Cmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | Cdim <sup>9</sup>	 | %9 <sup>1,6,5</sup>	 |
- | Bb6 <sup>5</sup>	 | %6 	 | %6 	 | %6 	 |
- | Bmin7 	 | %min7 	 | %min6 	 | %min6 	 |
+ | Bb6 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Bmin7 	 | % 	 | %min6 	 | %min6 	 |
  | Amin7 <sup>3</sup>	 | %dim 	 | Gmin7 	 | %7 <sup>3</sup>	 |
  |
 
@@ -208,8 +208,8 @@ Common keys:
 ## Gb
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Gb6 <sup>5,3,7</sup>	 | %6 	 | Dbmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
- | B6 <sup>5</sup>	 | %6 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
+ | Gb6 <sup>5,3,7</sup>	 | % 	 | Dbmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
+ | B6 <sup>5</sup>	 | % 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
  | Gb6 <sup>3,11,5</sup>	 | Ebmin7 <sup>3,11,5</sup>	 | Abmin7 <sup>3,5</sup>	 | %dim <sup>3,11,3</sup>	 |
  |
 
@@ -220,14 +220,14 @@ Common keys:
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Gb6 	 | Bmin6 	 | Gbmaj7 	 | %maj7 	 |
+ | Gb6 	 | Bmin6 	 | Gbmaj7 	 | % 	 |
  |
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | Dbmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | Dbdim <sup>9</sup>	 | %9 <sup>1,6,5</sup>	 |
- | B6 <sup>5</sup>	 | %6 	 | %6 	 | %6 	 |
- | Cmin7 	 | %min7 	 | %min6 	 | %min6 	 |
+ | B6 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Cmin7 	 | % 	 | %min6 	 | %min6 	 |
  | Bbmin7 <sup>3</sup>	 | %dim 	 | Abmin7 	 | %7 <sup>3</sup>	 |
  |
 
@@ -235,8 +235,8 @@ Common keys:
 ## G
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | G6 <sup>5,3,7</sup>	 | %6 	 | Dmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
- | C6 <sup>5</sup>	 | %6 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
+ | G6 <sup>5,3,7</sup>	 | % 	 | Dmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
+ | C6 <sup>5</sup>	 | % 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
  | G6 <sup>3,11,5</sup>	 | Emin7 <sup>3,11,5</sup>	 | Amin7 <sup>3,5</sup>	 | %dim <sup>3,11,3</sup>	 |
  |
 
@@ -247,14 +247,14 @@ Common keys:
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | G6 	 | Cmin6 	 | Gmaj7 	 | %maj7 	 |
+ | G6 	 | Cmin6 	 | Gmaj7 	 | % 	 |
  |
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | Dmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | Ddim <sup>9</sup>	 | %9 <sup>1,6,5</sup>	 |
- | C6 <sup>5</sup>	 | %6 	 | %6 	 | %6 	 |
- | Dbmin7 	 | %min7 	 | %min6 	 | %min6 	 |
+ | C6 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Dbmin7 	 | % 	 | %min6 	 | %min6 	 |
  | Bmin7 <sup>3</sup>	 | %dim 	 | Amin7 	 | %7 <sup>3</sup>	 |
  |
 
@@ -262,8 +262,8 @@ Common keys:
 ## Ab
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Ab6 <sup>5,3,7</sup>	 | %6 	 | Ebmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
- | Db6 <sup>5</sup>	 | %6 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
+ | Ab6 <sup>5,3,7</sup>	 | % 	 | Ebmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
+ | Db6 <sup>5</sup>	 | % 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
  | Ab6 <sup>3,11,5</sup>	 | Fmin7 <sup>3,11,5</sup>	 | Bbmin7 <sup>3,5</sup>	 | %dim <sup>3,11,3</sup>	 |
  |
 
@@ -274,14 +274,14 @@ Common keys:
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Ab6 	 | Dbmin6 	 | Abmaj7 	 | %maj7 	 |
+ | Ab6 	 | Dbmin6 	 | Abmaj7 	 | % 	 |
  |
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | Ebmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | Ebdim <sup>9</sup>	 | %9 <sup>1,6,5</sup>	 |
- | Db6 <sup>5</sup>	 | %6 	 | %6 	 | %6 	 |
- | Dmin7 	 | %min7 	 | %min6 	 | %min6 	 |
+ | Db6 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Dmin7 	 | % 	 | %min6 	 | %min6 	 |
  | Cmin7 <sup>3</sup>	 | %dim 	 | Bbmin7 	 | %7 <sup>3</sup>	 |
  |
 
@@ -289,8 +289,8 @@ Common keys:
 ## A
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | A6 <sup>5,3,7</sup>	 | %6 	 | Emin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
- | D6 <sup>5</sup>	 | %6 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
+ | A6 <sup>5,3,7</sup>	 | % 	 | Emin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
+ | D6 <sup>5</sup>	 | % 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
  | A6 <sup>3,11,5</sup>	 | Gbmin7 <sup>3,11,5</sup>	 | Bmin7 <sup>3,5</sup>	 | %dim <sup>3,11,3</sup>	 |
  |
 
@@ -301,14 +301,14 @@ Common keys:
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | A6 	 | Dmin6 	 | Amaj7 	 | %maj7 	 |
+ | A6 	 | Dmin6 	 | Amaj7 	 | % 	 |
  |
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | Emin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | Edim <sup>9</sup>	 | %9 <sup>1,6,5</sup>	 |
- | D6 <sup>5</sup>	 | %6 	 | %6 	 | %6 	 |
- | Ebmin7 	 | %min7 	 | %min6 	 | %min6 	 |
+ | D6 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Ebmin7 	 | % 	 | %min6 	 | %min6 	 |
  | Dbmin7 <sup>3</sup>	 | %dim 	 | Bmin7 	 | %7 <sup>3</sup>	 |
  |
 
@@ -316,8 +316,8 @@ Common keys:
 ## Bb
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Bb6 <sup>5,3,7</sup>	 | %6 	 | Fmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
- | Eb6 <sup>5</sup>	 | %6 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
+ | Bb6 <sup>5,3,7</sup>	 | % 	 | Fmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
+ | Eb6 <sup>5</sup>	 | % 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
  | Bb6 <sup>3,11,5</sup>	 | Gmin7 <sup>3,11,5</sup>	 | Cmin7 <sup>3,5</sup>	 | %dim <sup>3,11,3</sup>	 |
  |
 
@@ -328,14 +328,14 @@ Common keys:
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Bb6 	 | Ebmin6 	 | Bbmaj7 	 | %maj7 	 |
+ | Bb6 	 | Ebmin6 	 | Bbmaj7 	 | % 	 |
  |
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | Fmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | Fdim <sup>9</sup>	 | %9 <sup>1,6,5</sup>	 |
- | Eb6 <sup>5</sup>	 | %6 	 | %6 	 | %6 	 |
- | Emin7 	 | %min7 	 | %min6 	 | %min6 	 |
+ | Eb6 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Emin7 	 | % 	 | %min6 	 | %min6 	 |
  | Dmin7 <sup>3</sup>	 | %dim 	 | Cmin7 	 | %7 <sup>3</sup>	 |
  |
 
@@ -343,8 +343,8 @@ Common keys:
 ## B
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | B6 <sup>5,3,7</sup>	 | %6 	 | Gbmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
- | E6 <sup>5</sup>	 | %6 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
+ | B6 <sup>5,3,7</sup>	 | % 	 | Gbmin7 <sup>1,9,3,9</sup>	 | %dim <sup>9,1,6,5</sup>	 |
+ | E6 <sup>5</sup>	 | % 	 | %min7 <sup>1,9,3,9</sup>	 | %min6 <sup>9,1,6,5</sup>	 |
  | B6 <sup>3,11,5</sup>	 | Abmin7 <sup>3,11,5</sup>	 | Dbmin7 <sup>3,5</sup>	 | %dim <sup>3,11,3</sup>	 |
  |
 
@@ -355,14 +355,14 @@ Common keys:
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | B6 	 | Emin6 	 | Bmaj7 	 | %maj7 	 |
+ | B6 	 | Emin6 	 | Bmaj7 	 | % 	 |
  |
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | Gbmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | Gbdim <sup>9</sup>	 | %9 <sup>1,6,5</sup>	 |
- | E6 <sup>5</sup>	 | %6 	 | %6 	 | %6 	 |
- | Fmin7 	 | %min7 	 | %min6 	 | %min6 	 |
+ | E6 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Fmin7 	 | % 	 | %min6 	 | %min6 	 |
  | Ebmin7 <sup>3</sup>	 | %dim 	 | Dbmin7 	 | %7 <sup>3</sup>	 |
  |
 

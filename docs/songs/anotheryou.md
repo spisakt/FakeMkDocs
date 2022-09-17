@@ -22,14 +22,14 @@ Common keys:
 ## Roman Numeral
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | I6 	 | %6 	 | IImin6 	 | bVIdim 	 |
- | VImin7 	 | %min7 	 | Vmin7 	 | Vdim 	 |
+ | I6 	 | % 	 | IImin6 	 | bVIdim 	 |
+ | VImin7 	 | % 	 | Vmin7 	 | Vdim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | IV6 	 | IVmin6 	 | I6 	 | VImin7 	 |
- | II7 	 | %7 	 | IImin7 	 | bVIdim 	 |
+ | II7 	 | % 	 | IImin7 	 | bVIdim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -42,14 +42,14 @@ Common keys:
 ## C
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | C6 	 | %6 	 | Dmin6 	 | Abdim 	 |
- | Amin7 	 | %min7 	 | Gmin7 	 | Gdim 	 |
+ | C6 	 | % 	 | Dmin6 	 | Abdim 	 |
+ | Amin7 	 | % 	 | Gmin7 	 | Gdim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | F6 	 | Fmin6 	 | C6 	 | Amin7 	 |
- | D7 	 | %7 	 | Dmin7 	 | Abdim 	 |
+ | D7 	 | % 	 | Dmin7 	 | Abdim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -62,14 +62,14 @@ Common keys:
 ## Db
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Db6 	 | %6 	 | Ebmin6 	 | Adim 	 |
- | Bbmin7 	 | %min7 	 | Abmin7 	 | Abdim 	 |
+ | Db6 	 | % 	 | Ebmin6 	 | Adim 	 |
+ | Bbmin7 	 | % 	 | Abmin7 	 | Abdim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | Gb6 	 | Gbmin6 	 | Db6 	 | Bbmin7 	 |
- | Eb7 	 | %7 	 | Ebmin7 	 | Adim 	 |
+ | Eb7 	 | % 	 | Ebmin7 	 | Adim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -82,14 +82,14 @@ Common keys:
 ## D
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | D6 	 | %6 	 | Emin6 	 | Bbdim 	 |
- | Bmin7 	 | %min7 	 | Amin7 	 | Adim 	 |
+ | D6 	 | % 	 | Emin6 	 | Bbdim 	 |
+ | Bmin7 	 | % 	 | Amin7 	 | Adim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | G6 	 | Gmin6 	 | D6 	 | Bmin7 	 |
- | E7 	 | %7 	 | Emin7 	 | Bbdim 	 |
+ | E7 	 | % 	 | Emin7 	 | Bbdim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -102,14 +102,14 @@ Common keys:
 ## Eb
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Eb6 	 | %6 	 | Fmin6 	 | Bdim 	 |
- | Cmin7 	 | %min7 	 | Bbmin7 	 | Bbdim 	 |
+ | Eb6 	 | % 	 | Fmin6 	 | Bdim 	 |
+ | Cmin7 	 | % 	 | Bbmin7 	 | Bbdim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | Ab6 	 | Abmin6 	 | Eb6 	 | Cmin7 	 |
- | F7 	 | %7 	 | Fmin7 	 | Bdim 	 |
+ | F7 	 | % 	 | Fmin7 	 | Bdim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -122,14 +122,14 @@ Common keys:
 ## E
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | E6 	 | %6 	 | Gbmin6 	 | Cdim 	 |
- | Dbmin7 	 | %min7 	 | Bmin7 	 | Bdim 	 |
+ | E6 	 | % 	 | Gbmin6 	 | Cdim 	 |
+ | Dbmin7 	 | % 	 | Bmin7 	 | Bdim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | A6 	 | Amin6 	 | E6 	 | Dbmin7 	 |
- | Gb7 	 | %7 	 | Gbmin7 	 | Cdim 	 |
+ | Gb7 	 | % 	 | Gbmin7 	 | Cdim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -142,14 +142,14 @@ Common keys:
 ## F
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | F6 	 | %6 	 | Gmin6 	 | Dbdim 	 |
- | Dmin7 	 | %min7 	 | Cmin7 	 | Cdim 	 |
+ | F6 	 | % 	 | Gmin6 	 | Dbdim 	 |
+ | Dmin7 	 | % 	 | Cmin7 	 | Cdim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | Bb6 	 | Bbmin6 	 | F6 	 | Dmin7 	 |
- | G7 	 | %7 	 | Gmin7 	 | Dbdim 	 |
+ | G7 	 | % 	 | Gmin7 	 | Dbdim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -162,14 +162,14 @@ Common keys:
 ## Gb
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Gb6 	 | %6 	 | Abmin6 	 | Ddim 	 |
- | Ebmin7 	 | %min7 	 | Dbmin7 	 | Dbdim 	 |
+ | Gb6 	 | % 	 | Abmin6 	 | Ddim 	 |
+ | Ebmin7 	 | % 	 | Dbmin7 	 | Dbdim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | B6 	 | Bmin6 	 | Gb6 	 | Ebmin7 	 |
- | Ab7 	 | %7 	 | Abmin7 	 | Ddim 	 |
+ | Ab7 	 | % 	 | Abmin7 	 | Ddim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -182,14 +182,14 @@ Common keys:
 ## G
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | G6 	 | %6 	 | Amin6 	 | Ebdim 	 |
- | Emin7 	 | %min7 	 | Dmin7 	 | Ddim 	 |
+ | G6 	 | % 	 | Amin6 	 | Ebdim 	 |
+ | Emin7 	 | % 	 | Dmin7 	 | Ddim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | C6 	 | Cmin6 	 | G6 	 | Emin7 	 |
- | A7 	 | %7 	 | Amin7 	 | Ebdim 	 |
+ | A7 	 | % 	 | Amin7 	 | Ebdim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -202,14 +202,14 @@ Common keys:
 ## Ab
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Ab6 	 | %6 	 | Bbmin6 	 | Edim 	 |
- | Fmin7 	 | %min7 	 | Ebmin7 	 | Ebdim 	 |
+ | Ab6 	 | % 	 | Bbmin6 	 | Edim 	 |
+ | Fmin7 	 | % 	 | Ebmin7 	 | Ebdim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | Db6 	 | Dbmin6 	 | Ab6 	 | Fmin7 	 |
- | Bb7 	 | %7 	 | Bbmin7 	 | Edim 	 |
+ | Bb7 	 | % 	 | Bbmin7 	 | Edim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -222,14 +222,14 @@ Common keys:
 ## A
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | A6 	 | %6 	 | Bmin6 	 | Fdim 	 |
- | Gbmin7 	 | %min7 	 | Emin7 	 | Edim 	 |
+ | A6 	 | % 	 | Bmin6 	 | Fdim 	 |
+ | Gbmin7 	 | % 	 | Emin7 	 | Edim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | D6 	 | Dmin6 	 | A6 	 | Gbmin7 	 |
- | B7 	 | %7 	 | Bmin7 	 | Fdim 	 |
+ | B7 	 | % 	 | Bmin7 	 | Fdim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -242,14 +242,14 @@ Common keys:
 ## Bb
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Bb6 	 | %6 	 | Cmin6 	 | Gbdim 	 |
- | Gmin7 	 | %min7 	 | Fmin7 	 | Fdim 	 |
+ | Bb6 	 | % 	 | Cmin6 	 | Gbdim 	 |
+ | Gmin7 	 | % 	 | Fmin7 	 | Fdim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | Eb6 	 | Ebmin6 	 | Bb6 	 | Gmin7 	 |
- | C7 	 | %7 	 | Cmin7 	 | Gbdim 	 |
+ | C7 	 | % 	 | Cmin7 	 | Gbdim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -262,14 +262,14 @@ Common keys:
 ## B
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | B6 	 | %6 	 | Dbmin6 	 | Gdim 	 |
- | Abmin7 	 | %min7 	 | Gbmin7 	 | Gbdim 	 |
+ | B6 	 | % 	 | Dbmin6 	 | Gdim 	 |
+ | Abmin7 	 | % 	 | Gbmin7 	 | Gbdim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
  | E6 	 | Emin6 	 | B6 	 | Abmin7 	 |
- | Db7 	 | %7 	 | Dbmin7 	 | Gdim 	 |
+ | Db7 	 | % 	 | Dbmin7 	 | Gdim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
