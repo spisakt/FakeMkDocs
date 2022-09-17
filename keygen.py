@@ -64,6 +64,7 @@ for f in glob.glob('songs/*.y?ml'):
                     docfile.write(' |----------\t')
                 docfile.write('|' + os.linesep)
 
+                print(line)
                 for line in lines:
                     for tag in line.split():
                         extensions = []
@@ -77,7 +78,7 @@ for f in glob.glob('songs/*.y?ml'):
                         else:
                             degree = transpose(degree, key)
                             quality = tokens[1]
-                            if len(tokens) > 2:
+                            if len(tokens) > 3:
                                 extensions = tokens[2:]
                         extensions_str = '<sup>'
                         for i, e in enumerate(extensions):
