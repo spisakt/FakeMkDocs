@@ -66,6 +66,7 @@ for f in glob.glob('songs/*.y?ml'):
 
                 for line in lines:
                     for tag in line.split():
+                        extensions = []
                         tokens = tag.split(',')
                         degree = tokens[0]
                         if degree == '%':
