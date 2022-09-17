@@ -67,25 +67,21 @@ for f in glob.glob('songs/*.y?ml'):
                 for line in lines:
                     print(line)
                     for tag in line.split():
-                        extensions = []
+                        extensions_str = ''
                         tokens = tag.split(',')
                         degree = tokens[0]
-                        if degree == '%':
-                            if len(tokens)>1:
-                                # quality doesn't change
-                                quality = ''
-                                extensions = tokens[1:]
-                        else:
+                        if degree != '%':
                             degree = transpose(degree, key)
+                        if len(tokens) > 1:   
                             quality = tokens[1]
-                            if len(tokens) > 3:
-                                extensions = tokens[2:]
-                        extensions_str = '<sup>'
-                        for i, e in enumerate(extensions):
-                            extensions_str += e
-                            if i != len(extensions)-1:
-                                extensions_str += ','
-                        extensions_str += '</sup>'
+                        if len(tokens) > 2:
+                            extensions = tokens[2:]
+                            extensions_str = '<sup>'
+                            for i, e in enumerate(extensions):
+                                extensions_str += e
+                                if i != len(extensions)-1:
+                                    extensions_str += ','
+                            extensions_str += '</sup>'
                         docfile.write(' | ' + degree + quality + ' ' + extensions_str + '\t')
                     docfile.write(' |' + os.linesep)
                 docfile.write(os.linesep)
