@@ -14,7 +14,7 @@ chords:
     IV,6,5 	         % 	                %,min7,1,9,3,9 	  %,min6,9,1,6,5
     I,6,3,11,5 	     VI,min7,3,11,5 	  II,min7,3,5 	    %,dim,3,11,3
   A1: |
-    III,min7,3    	 %,dim     	    II,min7 	        %,7,3
+    III,min7,3    	 %,dim     	    II,min7 	        %,dim
   A2: |
     I,6      	       IV,min6 	        I,maj7 	          %
   B: |
