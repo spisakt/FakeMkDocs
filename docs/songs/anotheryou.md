@@ -2,368 +2,280 @@
 
 
 ##  Videos
-- https://www.youtube.com/watch?v=rPOlakkBlj8
- Ella Fitzgerald - Misty
-- https://www.youtube.com/watch?v=P_tAU3GM9XI
- Erroll Garner
+- https://www.youtube.com/watch?v=3xpcBx1Gm-c
+ Chet Baker - There Will Never Be Another You
+- https://www.youtube.com/watch?v=q8jUcVIFNi
+ Joe Pass (with transcription by François Leduc)
 
 ##  Backing Tracks
-- https://www.youtube.com/watch?v=LQvgMg6yeKM
+- https://www.youtube.com/watch?v=eO_IEv7SzVM
  Learn Jazz Standards
-- https://www.youtube.com/watch?v=Fxwvk9pekJo
- No piano
+- https://www.youtube.com/watch?v=v8xJIWQqpiI
+ No piano (JGC Play-Alongs)
+- https://www.youtube.com/watch?v=vhtx2_PXFlE
+ Bass only (MrSunnybass)
 
 #  Keys
 Common keys:
  - [Eb](#Eb)
+ - [F](#F)
 ## Roman Numeral
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Imaj7 <sup>11,3,7</sup>	 | %maj7 <sup>11,3,7</sup>	 | Vmin7 <sup>1,9,3,9</sup>	 | I7 <sup>13,5,3,9</sup>	 |
- | IVmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | IVmin7 <sup>1,9,3,9</sup>	 | bVII7 <sup>13,5,3,9</sup>	 |
- | Imaj7 <sup>3,11,5</sup>	 | VImin7 <sup>3,11,5</sup>	 | IImin7 <sup>3,5</sup>	 | V7 <sup>3</sup>	 |
+ | I6 	 | %6 	 | IImin6 	 | bVIdim 	 |
+ | VImin7 	 | %min7 	 | Vmin7 	 | Vdim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | IIImin7 <sup>3,1,7</sup>	 | VI7 <sup>3,11,5</sup>	 | IImin7 <sup>3,1,7</sup>	 | V7 <sup>3</sup>	 |
+ | IV6 	 | IVmin6 	 | I6 	 | VImin7 	 |
+ | II7 	 | %7 	 | IImin7 	 | bVIdim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Imaj7 <sup>3</sup>	 | IVmin6 <sup>3</sup>	 | Imaj7 <sup>3</sup>	 | %maj7 <sup>3</sup>	 |
- |
-
- | B	 |  	 |  	 |  	|
- |----------	 |----------	 |----------	 |----------	|
- | Vmin7 <sup>9</sup>	 | % <sup>9,1</sup>	 | I7 <sup>13</sup>	 | % <sup>13,5,3,9</sup>	 |
- | IVmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 |
- | bVmin7 <sup>5</sup>	 | %min7 <sup>5</sup>	 | VII7 <sup>5</sup>	 | %7 <sup>5</sup>	 | II7 <sup>5</sup>	 |
- | IIImin7 <sup>3,1,7</sup>	 | VI7 <sup>3,11,5</sup>	 | IImin7 <sup>3,1,7</sup>	 | V7 <sup>3</sup>	 |
+ | IV6 	 | IVmin6 	 | Imaj7 	 | VImin6 	 |
+ | VImin7 	 | IIImin7 	 | bVIdim 	 | I6 	 |
  |
 
 
 ## C
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Cmaj7 <sup>11,3,7</sup>	 | %maj7 <sup>11,3,7</sup>	 | Gmin7 <sup>1,9,3,9</sup>	 | C7 <sup>13,5,3,9</sup>	 |
- | Fmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | Fmin7 <sup>1,9,3,9</sup>	 | Bb7 <sup>13,5,3,9</sup>	 |
- | Cmaj7 <sup>3,11,5</sup>	 | Amin7 <sup>3,11,5</sup>	 | Dmin7 <sup>3,5</sup>	 | G7 <sup>3</sup>	 |
+ | C6 	 | %6 	 | Dmin6 	 | Abdim 	 |
+ | Amin7 	 | %min7 	 | Gmin7 	 | Gdim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Emin7 <sup>3,1,7</sup>	 | A7 <sup>3,11,5</sup>	 | Dmin7 <sup>3,1,7</sup>	 | G7 <sup>3</sup>	 |
+ | F6 	 | Fmin6 	 | C6 	 | Amin7 	 |
+ | D7 	 | %7 	 | Dmin7 	 | Abdim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Cmaj7 <sup>3</sup>	 | Fmin6 <sup>3</sup>	 | Cmaj7 <sup>3</sup>	 | %maj7 <sup>3</sup>	 |
- |
-
- | B	 |  	 |  	 |  	|
- |----------	 |----------	 |----------	 |----------	|
- | Gmin7 <sup>9</sup>	 | % <sup>9,1</sup>	 | C7 <sup>13</sup>	 | % <sup>13,5,3,9</sup>	 |
- | Fmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 |
- | Gbmin7 <sup>5</sup>	 | %min7 <sup>5</sup>	 | B7 <sup>5</sup>	 | %7 <sup>5</sup>	 | D7 <sup>5</sup>	 |
- | Emin7 <sup>3,1,7</sup>	 | A7 <sup>3,11,5</sup>	 | Dmin7 <sup>3,1,7</sup>	 | G7 <sup>3</sup>	 |
+ | F6 	 | Fmin6 	 | Cmaj7 	 | Amin6 	 |
+ | Amin7 	 | Emin7 	 | Abdim 	 | C6 	 |
  |
 
 
 ## Db
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Dbmaj7 <sup>11,3,7</sup>	 | %maj7 <sup>11,3,7</sup>	 | Abmin7 <sup>1,9,3,9</sup>	 | Db7 <sup>13,5,3,9</sup>	 |
- | Gbmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | Gbmin7 <sup>1,9,3,9</sup>	 | B7 <sup>13,5,3,9</sup>	 |
- | Dbmaj7 <sup>3,11,5</sup>	 | Bbmin7 <sup>3,11,5</sup>	 | Ebmin7 <sup>3,5</sup>	 | Ab7 <sup>3</sup>	 |
+ | Db6 	 | %6 	 | Ebmin6 	 | Adim 	 |
+ | Bbmin7 	 | %min7 	 | Abmin7 	 | Abdim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Fmin7 <sup>3,1,7</sup>	 | Bb7 <sup>3,11,5</sup>	 | Ebmin7 <sup>3,1,7</sup>	 | Ab7 <sup>3</sup>	 |
+ | Gb6 	 | Gbmin6 	 | Db6 	 | Bbmin7 	 |
+ | Eb7 	 | %7 	 | Ebmin7 	 | Adim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Dbmaj7 <sup>3</sup>	 | Gbmin6 <sup>3</sup>	 | Dbmaj7 <sup>3</sup>	 | %maj7 <sup>3</sup>	 |
- |
-
- | B	 |  	 |  	 |  	|
- |----------	 |----------	 |----------	 |----------	|
- | Abmin7 <sup>9</sup>	 | % <sup>9,1</sup>	 | Db7 <sup>13</sup>	 | % <sup>13,5,3,9</sup>	 |
- | Gbmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 |
- | Gmin7 <sup>5</sup>	 | %min7 <sup>5</sup>	 | C7 <sup>5</sup>	 | %7 <sup>5</sup>	 | Eb7 <sup>5</sup>	 |
- | Fmin7 <sup>3,1,7</sup>	 | Bb7 <sup>3,11,5</sup>	 | Ebmin7 <sup>3,1,7</sup>	 | Ab7 <sup>3</sup>	 |
+ | Gb6 	 | Gbmin6 	 | Dbmaj7 	 | Bbmin6 	 |
+ | Bbmin7 	 | Fmin7 	 | Adim 	 | Db6 	 |
  |
 
 
 ## D
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Dmaj7 <sup>11,3,7</sup>	 | %maj7 <sup>11,3,7</sup>	 | Amin7 <sup>1,9,3,9</sup>	 | D7 <sup>13,5,3,9</sup>	 |
- | Gmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | Gmin7 <sup>1,9,3,9</sup>	 | C7 <sup>13,5,3,9</sup>	 |
- | Dmaj7 <sup>3,11,5</sup>	 | Bmin7 <sup>3,11,5</sup>	 | Emin7 <sup>3,5</sup>	 | A7 <sup>3</sup>	 |
+ | D6 	 | %6 	 | Emin6 	 | Bbdim 	 |
+ | Bmin7 	 | %min7 	 | Amin7 	 | Adim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Gbmin7 <sup>3,1,7</sup>	 | B7 <sup>3,11,5</sup>	 | Emin7 <sup>3,1,7</sup>	 | A7 <sup>3</sup>	 |
+ | G6 	 | Gmin6 	 | D6 	 | Bmin7 	 |
+ | E7 	 | %7 	 | Emin7 	 | Bbdim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Dmaj7 <sup>3</sup>	 | Gmin6 <sup>3</sup>	 | Dmaj7 <sup>3</sup>	 | %maj7 <sup>3</sup>	 |
- |
-
- | B	 |  	 |  	 |  	|
- |----------	 |----------	 |----------	 |----------	|
- | Amin7 <sup>9</sup>	 | % <sup>9,1</sup>	 | D7 <sup>13</sup>	 | % <sup>13,5,3,9</sup>	 |
- | Gmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 |
- | Abmin7 <sup>5</sup>	 | %min7 <sup>5</sup>	 | Db7 <sup>5</sup>	 | %7 <sup>5</sup>	 | E7 <sup>5</sup>	 |
- | Gbmin7 <sup>3,1,7</sup>	 | B7 <sup>3,11,5</sup>	 | Emin7 <sup>3,1,7</sup>	 | A7 <sup>3</sup>	 |
+ | G6 	 | Gmin6 	 | Dmaj7 	 | Bmin6 	 |
+ | Bmin7 	 | Gbmin7 	 | Bbdim 	 | D6 	 |
  |
 
 
 ## Eb
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Ebmaj7 <sup>11,3,7</sup>	 | %maj7 <sup>11,3,7</sup>	 | Bbmin7 <sup>1,9,3,9</sup>	 | Eb7 <sup>13,5,3,9</sup>	 |
- | Abmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | Abmin7 <sup>1,9,3,9</sup>	 | Db7 <sup>13,5,3,9</sup>	 |
- | Ebmaj7 <sup>3,11,5</sup>	 | Cmin7 <sup>3,11,5</sup>	 | Fmin7 <sup>3,5</sup>	 | Bb7 <sup>3</sup>	 |
+ | Eb6 	 | %6 	 | Fmin6 	 | Bdim 	 |
+ | Cmin7 	 | %min7 	 | Bbmin7 	 | Bbdim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Gmin7 <sup>3,1,7</sup>	 | C7 <sup>3,11,5</sup>	 | Fmin7 <sup>3,1,7</sup>	 | Bb7 <sup>3</sup>	 |
+ | Ab6 	 | Abmin6 	 | Eb6 	 | Cmin7 	 |
+ | F7 	 | %7 	 | Fmin7 	 | Bdim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Ebmaj7 <sup>3</sup>	 | Abmin6 <sup>3</sup>	 | Ebmaj7 <sup>3</sup>	 | %maj7 <sup>3</sup>	 |
- |
-
- | B	 |  	 |  	 |  	|
- |----------	 |----------	 |----------	 |----------	|
- | Bbmin7 <sup>9</sup>	 | % <sup>9,1</sup>	 | Eb7 <sup>13</sup>	 | % <sup>13,5,3,9</sup>	 |
- | Abmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 |
- | Amin7 <sup>5</sup>	 | %min7 <sup>5</sup>	 | D7 <sup>5</sup>	 | %7 <sup>5</sup>	 | F7 <sup>5</sup>	 |
- | Gmin7 <sup>3,1,7</sup>	 | C7 <sup>3,11,5</sup>	 | Fmin7 <sup>3,1,7</sup>	 | Bb7 <sup>3</sup>	 |
+ | Ab6 	 | Abmin6 	 | Ebmaj7 	 | Cmin6 	 |
+ | Cmin7 	 | Gmin7 	 | Bdim 	 | Eb6 	 |
  |
 
 
 ## E
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Emaj7 <sup>11,3,7</sup>	 | %maj7 <sup>11,3,7</sup>	 | Bmin7 <sup>1,9,3,9</sup>	 | E7 <sup>13,5,3,9</sup>	 |
- | Amaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | Amin7 <sup>1,9,3,9</sup>	 | D7 <sup>13,5,3,9</sup>	 |
- | Emaj7 <sup>3,11,5</sup>	 | Dbmin7 <sup>3,11,5</sup>	 | Gbmin7 <sup>3,5</sup>	 | B7 <sup>3</sup>	 |
+ | E6 	 | %6 	 | Gbmin6 	 | Cdim 	 |
+ | Dbmin7 	 | %min7 	 | Bmin7 	 | Bdim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Abmin7 <sup>3,1,7</sup>	 | Db7 <sup>3,11,5</sup>	 | Gbmin7 <sup>3,1,7</sup>	 | B7 <sup>3</sup>	 |
+ | A6 	 | Amin6 	 | E6 	 | Dbmin7 	 |
+ | Gb7 	 | %7 	 | Gbmin7 	 | Cdim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Emaj7 <sup>3</sup>	 | Amin6 <sup>3</sup>	 | Emaj7 <sup>3</sup>	 | %maj7 <sup>3</sup>	 |
- |
-
- | B	 |  	 |  	 |  	|
- |----------	 |----------	 |----------	 |----------	|
- | Bmin7 <sup>9</sup>	 | % <sup>9,1</sup>	 | E7 <sup>13</sup>	 | % <sup>13,5,3,9</sup>	 |
- | Amaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 |
- | Bbmin7 <sup>5</sup>	 | %min7 <sup>5</sup>	 | Eb7 <sup>5</sup>	 | %7 <sup>5</sup>	 | Gb7 <sup>5</sup>	 |
- | Abmin7 <sup>3,1,7</sup>	 | Db7 <sup>3,11,5</sup>	 | Gbmin7 <sup>3,1,7</sup>	 | B7 <sup>3</sup>	 |
+ | A6 	 | Amin6 	 | Emaj7 	 | Dbmin6 	 |
+ | Dbmin7 	 | Abmin7 	 | Cdim 	 | E6 	 |
  |
 
 
 ## F
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Fmaj7 <sup>11,3,7</sup>	 | %maj7 <sup>11,3,7</sup>	 | Cmin7 <sup>1,9,3,9</sup>	 | F7 <sup>13,5,3,9</sup>	 |
- | Bbmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | Bbmin7 <sup>1,9,3,9</sup>	 | Eb7 <sup>13,5,3,9</sup>	 |
- | Fmaj7 <sup>3,11,5</sup>	 | Dmin7 <sup>3,11,5</sup>	 | Gmin7 <sup>3,5</sup>	 | C7 <sup>3</sup>	 |
+ | F6 	 | %6 	 | Gmin6 	 | Dbdim 	 |
+ | Dmin7 	 | %min7 	 | Cmin7 	 | Cdim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Amin7 <sup>3,1,7</sup>	 | D7 <sup>3,11,5</sup>	 | Gmin7 <sup>3,1,7</sup>	 | C7 <sup>3</sup>	 |
+ | Bb6 	 | Bbmin6 	 | F6 	 | Dmin7 	 |
+ | G7 	 | %7 	 | Gmin7 	 | Dbdim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Fmaj7 <sup>3</sup>	 | Bbmin6 <sup>3</sup>	 | Fmaj7 <sup>3</sup>	 | %maj7 <sup>3</sup>	 |
- |
-
- | B	 |  	 |  	 |  	|
- |----------	 |----------	 |----------	 |----------	|
- | Cmin7 <sup>9</sup>	 | % <sup>9,1</sup>	 | F7 <sup>13</sup>	 | % <sup>13,5,3,9</sup>	 |
- | Bbmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 |
- | Bmin7 <sup>5</sup>	 | %min7 <sup>5</sup>	 | E7 <sup>5</sup>	 | %7 <sup>5</sup>	 | G7 <sup>5</sup>	 |
- | Amin7 <sup>3,1,7</sup>	 | D7 <sup>3,11,5</sup>	 | Gmin7 <sup>3,1,7</sup>	 | C7 <sup>3</sup>	 |
+ | Bb6 	 | Bbmin6 	 | Fmaj7 	 | Dmin6 	 |
+ | Dmin7 	 | Amin7 	 | Dbdim 	 | F6 	 |
  |
 
 
 ## Gb
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Gbmaj7 <sup>11,3,7</sup>	 | %maj7 <sup>11,3,7</sup>	 | Dbmin7 <sup>1,9,3,9</sup>	 | Gb7 <sup>13,5,3,9</sup>	 |
- | Bmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | Bmin7 <sup>1,9,3,9</sup>	 | E7 <sup>13,5,3,9</sup>	 |
- | Gbmaj7 <sup>3,11,5</sup>	 | Ebmin7 <sup>3,11,5</sup>	 | Abmin7 <sup>3,5</sup>	 | Db7 <sup>3</sup>	 |
+ | Gb6 	 | %6 	 | Abmin6 	 | Ddim 	 |
+ | Ebmin7 	 | %min7 	 | Dbmin7 	 | Dbdim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Bbmin7 <sup>3,1,7</sup>	 | Eb7 <sup>3,11,5</sup>	 | Abmin7 <sup>3,1,7</sup>	 | Db7 <sup>3</sup>	 |
+ | B6 	 | Bmin6 	 | Gb6 	 | Ebmin7 	 |
+ | Ab7 	 | %7 	 | Abmin7 	 | Ddim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Gbmaj7 <sup>3</sup>	 | Bmin6 <sup>3</sup>	 | Gbmaj7 <sup>3</sup>	 | %maj7 <sup>3</sup>	 |
- |
-
- | B	 |  	 |  	 |  	|
- |----------	 |----------	 |----------	 |----------	|
- | Dbmin7 <sup>9</sup>	 | % <sup>9,1</sup>	 | Gb7 <sup>13</sup>	 | % <sup>13,5,3,9</sup>	 |
- | Bmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 |
- | Cmin7 <sup>5</sup>	 | %min7 <sup>5</sup>	 | F7 <sup>5</sup>	 | %7 <sup>5</sup>	 | Ab7 <sup>5</sup>	 |
- | Bbmin7 <sup>3,1,7</sup>	 | Eb7 <sup>3,11,5</sup>	 | Abmin7 <sup>3,1,7</sup>	 | Db7 <sup>3</sup>	 |
+ | B6 	 | Bmin6 	 | Gbmaj7 	 | Ebmin6 	 |
+ | Ebmin7 	 | Bbmin7 	 | Ddim 	 | Gb6 	 |
  |
 
 
 ## G
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Gmaj7 <sup>11,3,7</sup>	 | %maj7 <sup>11,3,7</sup>	 | Dmin7 <sup>1,9,3,9</sup>	 | G7 <sup>13,5,3,9</sup>	 |
- | Cmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | Cmin7 <sup>1,9,3,9</sup>	 | F7 <sup>13,5,3,9</sup>	 |
- | Gmaj7 <sup>3,11,5</sup>	 | Emin7 <sup>3,11,5</sup>	 | Amin7 <sup>3,5</sup>	 | D7 <sup>3</sup>	 |
+ | G6 	 | %6 	 | Amin6 	 | Ebdim 	 |
+ | Emin7 	 | %min7 	 | Dmin7 	 | Ddim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Bmin7 <sup>3,1,7</sup>	 | E7 <sup>3,11,5</sup>	 | Amin7 <sup>3,1,7</sup>	 | D7 <sup>3</sup>	 |
+ | C6 	 | Cmin6 	 | G6 	 | Emin7 	 |
+ | A7 	 | %7 	 | Amin7 	 | Ebdim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Gmaj7 <sup>3</sup>	 | Cmin6 <sup>3</sup>	 | Gmaj7 <sup>3</sup>	 | %maj7 <sup>3</sup>	 |
- |
-
- | B	 |  	 |  	 |  	|
- |----------	 |----------	 |----------	 |----------	|
- | Dmin7 <sup>9</sup>	 | % <sup>9,1</sup>	 | G7 <sup>13</sup>	 | % <sup>13,5,3,9</sup>	 |
- | Cmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 |
- | Dbmin7 <sup>5</sup>	 | %min7 <sup>5</sup>	 | Gb7 <sup>5</sup>	 | %7 <sup>5</sup>	 | A7 <sup>5</sup>	 |
- | Bmin7 <sup>3,1,7</sup>	 | E7 <sup>3,11,5</sup>	 | Amin7 <sup>3,1,7</sup>	 | D7 <sup>3</sup>	 |
+ | C6 	 | Cmin6 	 | Gmaj7 	 | Emin6 	 |
+ | Emin7 	 | Bmin7 	 | Ebdim 	 | G6 	 |
  |
 
 
 ## Ab
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Abmaj7 <sup>11,3,7</sup>	 | %maj7 <sup>11,3,7</sup>	 | Ebmin7 <sup>1,9,3,9</sup>	 | Ab7 <sup>13,5,3,9</sup>	 |
- | Dbmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | Dbmin7 <sup>1,9,3,9</sup>	 | Gb7 <sup>13,5,3,9</sup>	 |
- | Abmaj7 <sup>3,11,5</sup>	 | Fmin7 <sup>3,11,5</sup>	 | Bbmin7 <sup>3,5</sup>	 | Eb7 <sup>3</sup>	 |
+ | Ab6 	 | %6 	 | Bbmin6 	 | Edim 	 |
+ | Fmin7 	 | %min7 	 | Ebmin7 	 | Ebdim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Cmin7 <sup>3,1,7</sup>	 | F7 <sup>3,11,5</sup>	 | Bbmin7 <sup>3,1,7</sup>	 | Eb7 <sup>3</sup>	 |
+ | Db6 	 | Dbmin6 	 | Ab6 	 | Fmin7 	 |
+ | Bb7 	 | %7 	 | Bbmin7 	 | Edim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Abmaj7 <sup>3</sup>	 | Dbmin6 <sup>3</sup>	 | Abmaj7 <sup>3</sup>	 | %maj7 <sup>3</sup>	 |
- |
-
- | B	 |  	 |  	 |  	|
- |----------	 |----------	 |----------	 |----------	|
- | Ebmin7 <sup>9</sup>	 | % <sup>9,1</sup>	 | Ab7 <sup>13</sup>	 | % <sup>13,5,3,9</sup>	 |
- | Dbmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 |
- | Dmin7 <sup>5</sup>	 | %min7 <sup>5</sup>	 | G7 <sup>5</sup>	 | %7 <sup>5</sup>	 | Bb7 <sup>5</sup>	 |
- | Cmin7 <sup>3,1,7</sup>	 | F7 <sup>3,11,5</sup>	 | Bbmin7 <sup>3,1,7</sup>	 | Eb7 <sup>3</sup>	 |
+ | Db6 	 | Dbmin6 	 | Abmaj7 	 | Fmin6 	 |
+ | Fmin7 	 | Cmin7 	 | Edim 	 | Ab6 	 |
  |
 
 
 ## A
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Amaj7 <sup>11,3,7</sup>	 | %maj7 <sup>11,3,7</sup>	 | Emin7 <sup>1,9,3,9</sup>	 | A7 <sup>13,5,3,9</sup>	 |
- | Dmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | Dmin7 <sup>1,9,3,9</sup>	 | G7 <sup>13,5,3,9</sup>	 |
- | Amaj7 <sup>3,11,5</sup>	 | Gbmin7 <sup>3,11,5</sup>	 | Bmin7 <sup>3,5</sup>	 | E7 <sup>3</sup>	 |
+ | A6 	 | %6 	 | Bmin6 	 | Fdim 	 |
+ | Gbmin7 	 | %min7 	 | Emin7 	 | Edim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Dbmin7 <sup>3,1,7</sup>	 | Gb7 <sup>3,11,5</sup>	 | Bmin7 <sup>3,1,7</sup>	 | E7 <sup>3</sup>	 |
+ | D6 	 | Dmin6 	 | A6 	 | Gbmin7 	 |
+ | B7 	 | %7 	 | Bmin7 	 | Fdim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Amaj7 <sup>3</sup>	 | Dmin6 <sup>3</sup>	 | Amaj7 <sup>3</sup>	 | %maj7 <sup>3</sup>	 |
- |
-
- | B	 |  	 |  	 |  	|
- |----------	 |----------	 |----------	 |----------	|
- | Emin7 <sup>9</sup>	 | % <sup>9,1</sup>	 | A7 <sup>13</sup>	 | % <sup>13,5,3,9</sup>	 |
- | Dmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 |
- | Ebmin7 <sup>5</sup>	 | %min7 <sup>5</sup>	 | Ab7 <sup>5</sup>	 | %7 <sup>5</sup>	 | B7 <sup>5</sup>	 |
- | Dbmin7 <sup>3,1,7</sup>	 | Gb7 <sup>3,11,5</sup>	 | Bmin7 <sup>3,1,7</sup>	 | E7 <sup>3</sup>	 |
+ | D6 	 | Dmin6 	 | Amaj7 	 | Gbmin6 	 |
+ | Gbmin7 	 | Dbmin7 	 | Fdim 	 | A6 	 |
  |
 
 
 ## Bb
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Bbmaj7 <sup>11,3,7</sup>	 | %maj7 <sup>11,3,7</sup>	 | Fmin7 <sup>1,9,3,9</sup>	 | Bb7 <sup>13,5,3,9</sup>	 |
- | Ebmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | Ebmin7 <sup>1,9,3,9</sup>	 | Ab7 <sup>13,5,3,9</sup>	 |
- | Bbmaj7 <sup>3,11,5</sup>	 | Gmin7 <sup>3,11,5</sup>	 | Cmin7 <sup>3,5</sup>	 | F7 <sup>3</sup>	 |
+ | Bb6 	 | %6 	 | Cmin6 	 | Gbdim 	 |
+ | Gmin7 	 | %min7 	 | Fmin7 	 | Fdim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Dmin7 <sup>3,1,7</sup>	 | G7 <sup>3,11,5</sup>	 | Cmin7 <sup>3,1,7</sup>	 | F7 <sup>3</sup>	 |
+ | Eb6 	 | Ebmin6 	 | Bb6 	 | Gmin7 	 |
+ | C7 	 | %7 	 | Cmin7 	 | Gbdim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Bbmaj7 <sup>3</sup>	 | Ebmin6 <sup>3</sup>	 | Bbmaj7 <sup>3</sup>	 | %maj7 <sup>3</sup>	 |
- |
-
- | B	 |  	 |  	 |  	|
- |----------	 |----------	 |----------	 |----------	|
- | Fmin7 <sup>9</sup>	 | % <sup>9,1</sup>	 | Bb7 <sup>13</sup>	 | % <sup>13,5,3,9</sup>	 |
- | Ebmaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 |
- | Emin7 <sup>5</sup>	 | %min7 <sup>5</sup>	 | A7 <sup>5</sup>	 | %7 <sup>5</sup>	 | C7 <sup>5</sup>	 |
- | Dmin7 <sup>3,1,7</sup>	 | G7 <sup>3,11,5</sup>	 | Cmin7 <sup>3,1,7</sup>	 | F7 <sup>3</sup>	 |
+ | Eb6 	 | Ebmin6 	 | Bbmaj7 	 | Gmin6 	 |
+ | Gmin7 	 | Dmin7 	 | Gbdim 	 | Bb6 	 |
  |
 
 
 ## B
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Bmaj7 <sup>11,3,7</sup>	 | %maj7 <sup>11,3,7</sup>	 | Gbmin7 <sup>1,9,3,9</sup>	 | B7 <sup>13,5,3,9</sup>	 |
- | Emaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | Emin7 <sup>1,9,3,9</sup>	 | A7 <sup>13,5,3,9</sup>	 |
- | Bmaj7 <sup>3,11,5</sup>	 | Abmin7 <sup>3,11,5</sup>	 | Dbmin7 <sup>3,5</sup>	 | Gb7 <sup>3</sup>	 |
+ | B6 	 | %6 	 | Dbmin6 	 | Gdim 	 |
+ | Abmin7 	 | %min7 	 | Gbmin7 	 | Gbdim 	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Ebmin7 <sup>3,1,7</sup>	 | Ab7 <sup>3,11,5</sup>	 | Dbmin7 <sup>3,1,7</sup>	 | Gb7 <sup>3</sup>	 |
+ | E6 	 | Emin6 	 | B6 	 | Abmin7 	 |
+ | Db7 	 | %7 	 | Dbmin7 	 | Gdim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Bmaj7 <sup>3</sup>	 | Emin6 <sup>3</sup>	 | Bmaj7 <sup>3</sup>	 | %maj7 <sup>3</sup>	 |
- |
-
- | B	 |  	 |  	 |  	|
- |----------	 |----------	 |----------	 |----------	|
- | Gbmin7 <sup>9</sup>	 | % <sup>9,1</sup>	 | B7 <sup>13</sup>	 | % <sup>13,5,3,9</sup>	 |
- | Emaj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 | %maj7 <sup>5</sup>	 |
- | Fmin7 <sup>5</sup>	 | %min7 <sup>5</sup>	 | Bb7 <sup>5</sup>	 | %7 <sup>5</sup>	 | Db7 <sup>5</sup>	 |
- | Ebmin7 <sup>3,1,7</sup>	 | Ab7 <sup>3,11,5</sup>	 | Dbmin7 <sup>3,1,7</sup>	 | Gb7 <sup>3</sup>	 |
+ | E6 	 | Emin6 	 | Bmaj7 	 | Abmin6 	 |
+ | Abmin7 	 | Ebmin7 	 | Gdim 	 | B6 	 |
  |
 
 
