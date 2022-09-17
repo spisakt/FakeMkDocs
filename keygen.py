@@ -68,6 +68,7 @@ for f in glob.glob('songs/*.y?ml'):
                     print(line)
                     for tag in line.split():
                         extensions_str = ''
+                        quality = ''
                         tokens = tag.split(',')
                         degree = tokens[0]
                         if degree != '%':
