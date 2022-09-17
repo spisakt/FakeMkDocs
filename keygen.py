@@ -64,8 +64,8 @@ for f in glob.glob('songs/*.y?ml'):
                     docfile.write(' |----------\t')
                 docfile.write('|' + os.linesep)
 
-                print(line)
                 for line in lines:
+                    print(line)
                     for tag in line.split():
                         extensions = []
                         tokens = tag.split(',')
