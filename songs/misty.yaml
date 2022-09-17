@@ -10,18 +10,18 @@ structure: A1 A2 B A1
 
 chords:
   A: |
-    I,maj7,11,3,7    %    	            V,min7,1,9,3,9    I,7,13,5,3,9
-    IV,maj7,5 	      % 	              IV,min7,1,9,3,9 	bVII,7,13,5,3,9
-    I,maj7,3,11,5 	  VI,min7,3,11,5 	  II,min7,3,5 	    V,7,3
+    I,6,5,3,7        %    	            V,min7,1,9,3,9    %,dim,9,1,6,5
+    IV,6,5 	         % 	                %,min7,1,9,3,9 	  %,min6,9,1,6,5
+    I,6,3,11,5 	     VI,min7,3,11,5 	  II,min7,3,5 	    %,dim,3,11,3
   A1: |
-    III,min7,3,1,7 	VI,7,3,11,5 	    II,min7,3,1,7 	  V,7,3
+    III,min7,3    	 %,dim     	    II,min7 	        %,7,3
   A2: |
-    I,maj7 	        IV,min6 	        I,maj7 	          %
+    I,6      	       IV,min6 	        I,maj7 	          %
   B: |
-    V,min7,9         %,9,1             I,7,13            %,13,5,3,9
-    IV,maj7,5        %                 %                 %
-    bV,min7          %                 VII,7            % II,7
-    III,min7,3,1,7 	VI,7,3,11,5 	    II,min7,3,1,7 	  V,7,3
+    V,min7,9         %,9,1             V,dim,9            %,9,1,6,5
+    IV,6,5           %                 %                 %
+    bV,min7          %                 %,min6            %,min6
+     III,min7,3    	 %,dim     	       II,min7 	          %,7,3
 
 similar:
     - link: https://www.youtube.com/watch?v=rPOlakkBlj8
