@@ -26,7 +26,7 @@ Common keys:
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | IIImin7 <sup>3</sup>	 | %dim 	 | IImin7 	 | %7 <sup>3</sup>	 |
+ | IIImin7 <sup>3</sup>	 | %dim 	 | IImin7 	 | %dim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -53,7 +53,7 @@ Common keys:
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Emin7 <sup>3</sup>	 | %dim 	 | Dmin7 	 | %7 <sup>3</sup>	 |
+ | Emin7 <sup>3</sup>	 | %dim 	 | Dmin7 	 | %dim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -80,7 +80,7 @@ Common keys:
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Fmin7 <sup>3</sup>	 | %dim 	 | Ebmin7 	 | %7 <sup>3</sup>	 |
+ | Fmin7 <sup>3</sup>	 | %dim 	 | Ebmin7 	 | %dim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -107,7 +107,7 @@ Common keys:
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Gbmin7 <sup>3</sup>	 | %dim 	 | Emin7 	 | %7 <sup>3</sup>	 |
+ | Gbmin7 <sup>3</sup>	 | %dim 	 | Emin7 	 | %dim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -134,7 +134,7 @@ Common keys:
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Gmin7 <sup>3</sup>	 | %dim 	 | Fmin7 	 | %7 <sup>3</sup>	 |
+ | Gmin7 <sup>3</sup>	 | %dim 	 | Fmin7 	 | %dim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -161,7 +161,7 @@ Common keys:
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Abmin7 <sup>3</sup>	 | %dim 	 | Gbmin7 	 | %7 <sup>3</sup>	 |
+ | Abmin7 <sup>3</sup>	 | %dim 	 | Gbmin7 	 | %dim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -188,7 +188,7 @@ Common keys:
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Amin7 <sup>3</sup>	 | %dim 	 | Gmin7 	 | %7 <sup>3</sup>	 |
+ | Amin7 <sup>3</sup>	 | %dim 	 | Gmin7 	 | %dim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -215,7 +215,7 @@ Common keys:
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Bbmin7 <sup>3</sup>	 | %dim 	 | Abmin7 	 | %7 <sup>3</sup>	 |
+ | Bbmin7 <sup>3</sup>	 | %dim 	 | Abmin7 	 | %dim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -242,7 +242,7 @@ Common keys:
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Bmin7 <sup>3</sup>	 | %dim 	 | Amin7 	 | %7 <sup>3</sup>	 |
+ | Bmin7 <sup>3</sup>	 | %dim 	 | Amin7 	 | %dim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -269,7 +269,7 @@ Common keys:
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Cmin7 <sup>3</sup>	 | %dim 	 | Bbmin7 	 | %7 <sup>3</sup>	 |
+ | Cmin7 <sup>3</sup>	 | %dim 	 | Bbmin7 	 | %dim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -296,7 +296,7 @@ Common keys:
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Dbmin7 <sup>3</sup>	 | %dim 	 | Bmin7 	 | %7 <sup>3</sup>	 |
+ | Dbmin7 <sup>3</sup>	 | %dim 	 | Bmin7 	 | %dim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -323,7 +323,7 @@ Common keys:
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Dmin7 <sup>3</sup>	 | %dim 	 | Cmin7 	 | %7 <sup>3</sup>	 |
+ | Dmin7 <sup>3</sup>	 | %dim 	 | Cmin7 	 | %dim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -350,7 +350,7 @@ Common keys:
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Ebmin7 <sup>3</sup>	 | %dim 	 | Dbmin7 	 | %7 <sup>3</sup>	 |
+ | Ebmin7 <sup>3</sup>	 | %dim 	 | Dbmin7 	 | %dim 	 |
  |
 
  | A2	 |  	 |  	 |  	|
