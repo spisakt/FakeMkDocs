@@ -1,7 +1,11 @@
 --- 
 title: Misty
 
-description: |
+description: slow ballad
+
+tempo: 60
+time_signature: 4/4
+
 
 commonkeys:
   - Eb
