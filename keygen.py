@@ -12,6 +12,37 @@ _numerals_ = np.array([
 ])
 
 
+def metronome(bpm=120, time_signature='4/4'):
+    if time_signature == '2/4':
+        time_signature = 0
+    elif time_signature == '3/4':
+        time_signature = 1
+    elif time_signature == '4/4':
+        time_signature = 2
+    elif time_signature == '5/8':
+        time_signature = 3
+    elif time_signature == '6/8':
+        time_signature = 4
+    elif time_signature == '7/8':
+        time_signature = 5
+    elif time_signature == '8/8':
+        time_signature = 6
+    elif time_signature == '9/8':
+        time_signature = 7
+    elif time_signature == '10/8':
+        time_signature = 8
+    elif time_signature == '11/8':
+        time_signature = 9
+    elif time_signature == '12/8':
+        time_signature = 10
+    elif time_signature == '13/8':
+        time_signature = 11
+    else:
+        raise AssertionError('No such time signature: ' + str(time_signature)
+                             
+    return "<iframe src="https://guitarapp.com/metronome-embed.html?tempo="+ str(bpm) + "&timeSignature=" + str(time_signature) + "2&pattern=1" title="Metronome" style="width: 360px; height:520px; border-style: none; border-radius: 4px;"> </iframe>
+
+
 def transpose(degree, key):
     if key == 'Roman Numeral':
         return degree
@@ -31,6 +62,8 @@ for f in glob.glob('songs/*.y?ml'):
         docfile.write('# ' + song['title'] + os.linesep)
         docfile.write('' + song['description'] + os.linesep)
         docfile.write(os.linesep)
+                             
+        docfle.write(metronome(song['tempo'], song['time_signature']) + os.linesep)
 
         docfile.write('##  ' + 'Videos' + os.linesep)
         for i in song['similar']:
