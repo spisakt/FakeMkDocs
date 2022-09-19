@@ -38,7 +38,7 @@ def metronome(bpm=120, time_signature='4/4'):
     elif time_signature == '13/8':
         time_signature = 11
     else:
-        raise AssertionError('No such time signature: ' + str(time_signature)
+        raise AssertionError('No such time signature: ' + str(time_signature))
                              
     return "<iframe src="https://guitarapp.com/metronome-embed.html?tempo="+ str(bpm) + "&timeSignature=" + str(time_signature) + "2&pattern=1" title="Metronome" style="width: 360px; height:520px; border-style: none; border-radius: 4px;"> </iframe>
 
