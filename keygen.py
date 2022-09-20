@@ -63,7 +63,7 @@ for f in glob.glob('songs/*.y?ml'):
         docfile.write('' + song['description'] + os.linesep)
         docfile.write(os.linesep)
                              
-        docfle.write(metronome(song['tempo'], song['time_signature']) + os.linesep)
+        docfile.write(metronome(song['tempo'], song['time_signature']) + os.linesep)
 
         docfile.write('##  ' + 'Videos' + os.linesep)
         for i in song['similar']:
