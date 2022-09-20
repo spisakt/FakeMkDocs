@@ -1,6 +1,7 @@
 # Just Friends
 
 
+<iframe src="https://guitarapp.com/metronome-embed.html?tempo=60&timeSignature=22&pattern=1" title="Metronome" style="width: 360px; height:520px; border-style: none; border-radius: 4px;"> </iframe>
 ##  Videos
 - https://www.youtube.com/watch?v=rPOlakkBlj8
  Ella Fitzgerald - Misty
