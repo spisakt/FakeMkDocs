@@ -1,0 +1,40 @@
+--- 
+title: Someday my prince will come
+
+description: swing waltz 
+tempo: 132
+time_signature: 3/4
+
+commonkeys:
+  - C, Bb
+  
+structure: A B
+
+chords:
+  A: |
+    I,6,5         I,7,1,(#7)    IV,maj7,#11     bII,dim,b11,3
+    II,min7,3     III,dim,b9    II,min7,9       %,min6,1
+    III,min7,3    bIII,dim      II,min7         %,min6
+    III,min7,3    bIII,dim      II,min7         %,min6
+  B: |
+    I,6,5         I,7,1,(#7)    IV,maj7,#11     bII,dim,b11,3
+    II,min7,3     III,dim,b9    II,min7,9       %,min6,1
+    I,6           I,7           IV,7            bV,dim
+    I,6           II,min7       II,dim
+    
+similar:
+    - link: https://www.youtube.com/watch?v=rPOlakkBlj8
+      description: Ella Fitzgerald - Misty
+    - link: https://www.youtube.com/watch?v=P_tAU3GM9XI
+      description: Erroll Garner
+
+backtracks:
+    - link: https://www.youtube.com/watch?v=lF-0l5iqCyc
+      description: Learn Jazz Standards
+    - link: https://www.youtube.com/watch?v=ybj9PiuMJKc
+      description: No piano, slow
+    - link: https://www.youtube.com/watch?v=le6czW_1q4M
+      description:  MrSunnybass
+
+    
+other: |
