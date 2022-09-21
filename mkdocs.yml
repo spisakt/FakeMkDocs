@@ -1,6 +1,7 @@
 nav:
 - Home: index.md
 - Songs:
+  - Someday my prince will come: songs/someday.md
   - Another You: songs/anotheryou.md
   - Misty: songs/misty.md
   - Just Friends: songs/justfriends.md
