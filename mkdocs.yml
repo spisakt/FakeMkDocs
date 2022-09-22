@@ -1,10 +1,10 @@
 nav:
 - Home: index.md
 - Songs:
-  - Just Friends: songs/justfriends.md
+  - Someday my prince will come: songs/someday.md
   - Another You: songs/anotheryou.md
   - Misty: songs/misty.md
-  - Someday my prince will come: songs/someday.md
+  - Just Friends: songs/justfriends.md
 site_name: FakeSite
 site_url: https://spisakt.github.io/fakesite
 theme:
