@@ -1,1 +1,43 @@
+--- 
+title: Body and Soul
+
+description: ballad (in progress)
+
+tempo: 65
+time_signature: 4/4
+
+commonkeys:
+  - Db
+  
+structure: A1 A2
+
+chords:
+  A: |
+    I,6               %    	            II,min6              bVI,dim
+    VI,min7           %                 V,min7               V,dim
+    
+  A1: |
+    IV,6          	  IV,min6    	      I,6                 VI,min7
+    II,7              %                 II,min7         	  bVI,dim
+  A2: |
+    IV,6          	  IV,min6  	        I,maj7           	  VI,min6
+    VI,min7            III,min7          bVI,dim             I,6
+
+similar:
+    - link: https://www.youtube.com/watch?v=zUFg6HvljDE
+      description: Coleman Hawkins
+    - link: https://www.youtube.com/watch?v=_OFMkCeP6ok
+      description: Tony Bennett, Amy Winehouse
+    - link: https://www.youtube.com/watch?v=wkScFiL1nvY
+      description: Tim Lerch solo guitar
+
+backtracks:
+    - link: https://www.youtube.com/watch?v=eO_IEv7SzVM
+      description: Learn Jazz Standards
+    - link: https://www.youtube.com/watch?v=v8xJIWQqpiI
+      description: No piano (JGC Play-Alongs)
+    - link: https://www.youtube.com/watch?v=vhtx2_PXFlE
+      description: Bass only (MrSunnybass)
+    
+other: |
 
