@@ -3,25 +3,25 @@ title: Beautiful Love
 
 description: swing, from sweet/moderate to uptempo
 
-tempo: 16
+tempo: 160
 time_signature: 4/4
 
 commonkeys:
-  - D
+  - F
   
 structure: A1 A2
 
 chords:
   A: |
-    IV,min6,5,6,7,9,1       bVI,dim,3,b5        I,min7,3            %,dim
-    IV,min7,7,1,9,11,3,9    %,dim,9,1,7,1       bIII,min7           bVI,dim,1,9,3
-    I,min7,9,1,5             IV,min7,11,3,5      VI,dim,11           bVI,dim,b5,5,6
+    II,-,6,5,6,7,9,1       I,d,3,1,7,6,7          I,+,6,1             IV,d,5,6,7 
+    IV,+,6,9,1,7           I,d,3,9,1,9            I,+,1,3             I,d,3,3,b5,b6
+    I,+,6,7,6,3            IV,+,6,9,1,6           I,d2,b7             I,d,7
     
     
   A1: |
-    I,min7,5,1              bV,dim,11           IV,dim              bVI,dim,b5
+    I,+,6,3,5              I,d,2,b6,6                 II,-,6,6        I,d,3,6,7,1
   A2: |
-    I,min7,5,1              bVI,dim,3,b5        I,min7,1            %
+    I,+,6,3,1              I,d,3,b6,6                 I,+,6,6         %
 
 similar:
     - link: https://www.youtube.com/watch?v=OnaFxBLEI9Q
