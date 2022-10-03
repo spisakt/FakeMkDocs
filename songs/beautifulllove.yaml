@@ -1,0 +1,40 @@
+--- 
+title: Beautiful Love
+
+description: swing, from sweet/moderate to uptempo
+
+tempo: 16
+time_signature: 4/4
+
+commonkeys:
+  - D
+  
+structure: A1 A2
+
+chords:
+  A: |
+    IV,min6,5,6,7,9,1       bVI,dim,3,b5        I,min7,3            %
+    IV,min7,7,1,9,11,3,9    %,dim,9,1,7,1       III,min7            bVI,dim,1,9,3
+    I,min,9,1,5             IV,min7,11,3,5      VI,dim,11           bVI,dim,b5,5,6
+    
+    
+  A1: |
+    I,min7,5,1              bV,dim,11           IV,dim              bVI,dim,b5
+  A2: |
+    I,min7,5,1              bVI,dim,3,b5        I,min7,1            %
+
+similar:
+    - link: https://www.youtube.com/watch?v=OnaFxBLEI9Q
+      description: Benny Golson Quartet
+    - link: https://www.youtube.com/watch?v=VjLYoTR8cDE
+      description: Anita O'day
+
+backtracks:
+    - link: https://www.youtube.com/watch?v=ccqW1xHKZA4
+      description: Learn Jazz Standards
+    - link: https://www.youtube.com/watch?v=0JZ5wrD_JWk
+      description: No piano (JGC Play-Alongs)
+    - link: https://www.youtube.com/watch?v=IRbm6uOprQ0
+      description: Bass only (MrSunnybass)
+    
+other: |
