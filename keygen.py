@@ -102,6 +102,7 @@ for f in glob.glob('songs/*.y?ml'):
                     for tag in line.split():
                         extensions_str = ''
                         quality = ''
+                        bassnote = ''
                         tokens = tag.split(',')
                         degree = tokens[0]
                         if degree != '%':
@@ -109,6 +110,9 @@ for f in glob.glob('songs/*.y?ml'):
                         if len(tokens) > 1:   
                             quality = tokens[1]
                         if len(tokens) > 2:
+                            bassnote = tokens[2]
+                            bassnote = '<sub>' + bassnote + '</sub>'
+                        if len(tokens) > 3:
                             extensions = tokens[2:]
                             extensions_str = '<sup>'
                             for i, e in enumerate(extensions):
@@ -116,7 +120,7 @@ for f in glob.glob('songs/*.y?ml'):
                                 if i != len(extensions)-1:
                                     extensions_str += ','
                             extensions_str += '</sup>'
-                        docfile.write(' | ' + degree + quality + ' ' + extensions_str + '\t')
+                        docfile.write(' | ' + degree + quality + ' ' + bassnote + extensions_str + '\t')
                     docfile.write(' |' + os.linesep)
                 docfile.write(os.linesep)
             docfile.write(os.linesep)
