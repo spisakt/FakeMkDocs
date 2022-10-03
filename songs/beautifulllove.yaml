@@ -13,7 +13,7 @@ structure: A1 A2
 
 chords:
   A: |
-    IV,min6,5,6,7,9,1       bVI,dim,3,b5        I,min7,3            %
+    IV,min6,5,6,7,9,1       bVI,dim,3,b5        I,min7,3            %,dim
     IV,min7,7,1,9,11,3,9    %,dim,9,1,7,1       III,min7            bVI,dim,1,9,3
     I,min,9,1,5             IV,min7,11,3,5      VI,dim,11           bVI,dim,b5,5,6
     
