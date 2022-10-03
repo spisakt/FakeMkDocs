@@ -20,14 +20,14 @@ Common keys:
 ## Roman Numeral
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Imaj7 <sup>11,3,7</sup>	 | % 	 | Vmin7 <sup>1,9,3,9</sup>	 | I7 <sup>13,5,3,9</sup>	 |
- | IVmaj7 <sup>5</sup>	 | % 	 | IVmin7 <sup>1,9,3,9</sup>	 | bVII7 <sup>13,5,3,9</sup>	 |
- | Imaj7 <sup>3,11,5</sup>	 | VImin7 <sup>3,11,5</sup>	 | IImin7 <sup>3,5</sup>	 | V7 <sup>3</sup>	 |
+ | Imaj7 <sub>11</sub><sup>11,3,7</sup>	 | % 	 | Vmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | I7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | IVmaj7 <sub>5</sub>	 | % 	 | IVmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | bVII7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Imaj7 <sub>3</sub><sup>3,11,5</sup>	 | VImin7 <sub>3</sub><sup>3,11,5</sup>	 | IImin7 <sub>3</sub><sup>3,5</sup>	 | V7 <sub>3</sub>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | IIImin7 <sup>3,1,7</sup>	 | VI7 <sup>3,11,5</sup>	 | IImin7 <sup>3,1,7</sup>	 | V7 <sup>3</sup>	 |
+ | IIImin7 <sub>3</sub><sup>3,1,7</sup>	 | VI7 <sub>3</sub><sup>3,11,5</sup>	 | IImin7 <sub>3</sub><sup>3,1,7</sup>	 | V7 <sub>3</sub>	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -37,24 +37,24 @@ Common keys:
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Vmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | I7 <sup>13</sup>	 | %13 <sup>5,3,9</sup>	 |
- | IVmaj7 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Vmin7 <sub>9</sub>	 | %9 <sub>1</sub>	 | I7 <sub>13</sub>	 | %13 <sub>5</sub><sup>5,3,9</sup>	 |
+ | IVmaj7 <sub>5</sub>	 | % 	 | % 	 | % 	 |
  | bVmin7 	 | % 	 | VII7 	 | % 	 | II7 	 |
- | IIImin7 <sup>3,1,7</sup>	 | VI7 <sup>3,11,5</sup>	 | IImin7 <sup>3,1,7</sup>	 | V7 <sup>3</sup>	 |
+ | IIImin7 <sub>3</sub><sup>3,1,7</sup>	 | VI7 <sub>3</sub><sup>3,11,5</sup>	 | IImin7 <sub>3</sub><sup>3,1,7</sup>	 | V7 <sub>3</sub>	 |
  |
 
 
 ## C
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Cmaj7 <sup>11,3,7</sup>	 | % 	 | Gmin7 <sup>1,9,3,9</sup>	 | C7 <sup>13,5,3,9</sup>	 |
- | Fmaj7 <sup>5</sup>	 | % 	 | Fmin7 <sup>1,9,3,9</sup>	 | Bb7 <sup>13,5,3,9</sup>	 |
- | Cmaj7 <sup>3,11,5</sup>	 | Amin7 <sup>3,11,5</sup>	 | Dmin7 <sup>3,5</sup>	 | G7 <sup>3</sup>	 |
+ | Cmaj7 <sub>11</sub><sup>11,3,7</sup>	 | % 	 | Gmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | C7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Fmaj7 <sub>5</sub>	 | % 	 | Fmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | Bb7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Cmaj7 <sub>3</sub><sup>3,11,5</sup>	 | Amin7 <sub>3</sub><sup>3,11,5</sup>	 | Dmin7 <sub>3</sub><sup>3,5</sup>	 | G7 <sub>3</sub>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Emin7 <sup>3,1,7</sup>	 | A7 <sup>3,11,5</sup>	 | Dmin7 <sup>3,1,7</sup>	 | G7 <sup>3</sup>	 |
+ | Emin7 <sub>3</sub><sup>3,1,7</sup>	 | A7 <sub>3</sub><sup>3,11,5</sup>	 | Dmin7 <sub>3</sub><sup>3,1,7</sup>	 | G7 <sub>3</sub>	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -64,24 +64,24 @@ Common keys:
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Gmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | C7 <sup>13</sup>	 | %13 <sup>5,3,9</sup>	 |
- | Fmaj7 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Gmin7 <sub>9</sub>	 | %9 <sub>1</sub>	 | C7 <sub>13</sub>	 | %13 <sub>5</sub><sup>5,3,9</sup>	 |
+ | Fmaj7 <sub>5</sub>	 | % 	 | % 	 | % 	 |
  | Gbmin7 	 | % 	 | B7 	 | % 	 | D7 	 |
- | Emin7 <sup>3,1,7</sup>	 | A7 <sup>3,11,5</sup>	 | Dmin7 <sup>3,1,7</sup>	 | G7 <sup>3</sup>	 |
+ | Emin7 <sub>3</sub><sup>3,1,7</sup>	 | A7 <sub>3</sub><sup>3,11,5</sup>	 | Dmin7 <sub>3</sub><sup>3,1,7</sup>	 | G7 <sub>3</sub>	 |
  |
 
 
 ## Db
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Dbmaj7 <sup>11,3,7</sup>	 | % 	 | Abmin7 <sup>1,9,3,9</sup>	 | Db7 <sup>13,5,3,9</sup>	 |
- | Gbmaj7 <sup>5</sup>	 | % 	 | Gbmin7 <sup>1,9,3,9</sup>	 | B7 <sup>13,5,3,9</sup>	 |
- | Dbmaj7 <sup>3,11,5</sup>	 | Bbmin7 <sup>3,11,5</sup>	 | Ebmin7 <sup>3,5</sup>	 | Ab7 <sup>3</sup>	 |
+ | Dbmaj7 <sub>11</sub><sup>11,3,7</sup>	 | % 	 | Abmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | Db7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Gbmaj7 <sub>5</sub>	 | % 	 | Gbmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | B7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Dbmaj7 <sub>3</sub><sup>3,11,5</sup>	 | Bbmin7 <sub>3</sub><sup>3,11,5</sup>	 | Ebmin7 <sub>3</sub><sup>3,5</sup>	 | Ab7 <sub>3</sub>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Fmin7 <sup>3,1,7</sup>	 | Bb7 <sup>3,11,5</sup>	 | Ebmin7 <sup>3,1,7</sup>	 | Ab7 <sup>3</sup>	 |
+ | Fmin7 <sub>3</sub><sup>3,1,7</sup>	 | Bb7 <sub>3</sub><sup>3,11,5</sup>	 | Ebmin7 <sub>3</sub><sup>3,1,7</sup>	 | Ab7 <sub>3</sub>	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -91,24 +91,24 @@ Common keys:
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Abmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | Db7 <sup>13</sup>	 | %13 <sup>5,3,9</sup>	 |
- | Gbmaj7 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Abmin7 <sub>9</sub>	 | %9 <sub>1</sub>	 | Db7 <sub>13</sub>	 | %13 <sub>5</sub><sup>5,3,9</sup>	 |
+ | Gbmaj7 <sub>5</sub>	 | % 	 | % 	 | % 	 |
  | Gmin7 	 | % 	 | C7 	 | % 	 | Eb7 	 |
- | Fmin7 <sup>3,1,7</sup>	 | Bb7 <sup>3,11,5</sup>	 | Ebmin7 <sup>3,1,7</sup>	 | Ab7 <sup>3</sup>	 |
+ | Fmin7 <sub>3</sub><sup>3,1,7</sup>	 | Bb7 <sub>3</sub><sup>3,11,5</sup>	 | Ebmin7 <sub>3</sub><sup>3,1,7</sup>	 | Ab7 <sub>3</sub>	 |
  |
 
 
 ## D
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Dmaj7 <sup>11,3,7</sup>	 | % 	 | Amin7 <sup>1,9,3,9</sup>	 | D7 <sup>13,5,3,9</sup>	 |
- | Gmaj7 <sup>5</sup>	 | % 	 | Gmin7 <sup>1,9,3,9</sup>	 | C7 <sup>13,5,3,9</sup>	 |
- | Dmaj7 <sup>3,11,5</sup>	 | Bmin7 <sup>3,11,5</sup>	 | Emin7 <sup>3,5</sup>	 | A7 <sup>3</sup>	 |
+ | Dmaj7 <sub>11</sub><sup>11,3,7</sup>	 | % 	 | Amin7 <sub>1</sub><sup>1,9,3,9</sup>	 | D7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Gmaj7 <sub>5</sub>	 | % 	 | Gmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | C7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Dmaj7 <sub>3</sub><sup>3,11,5</sup>	 | Bmin7 <sub>3</sub><sup>3,11,5</sup>	 | Emin7 <sub>3</sub><sup>3,5</sup>	 | A7 <sub>3</sub>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Gbmin7 <sup>3,1,7</sup>	 | B7 <sup>3,11,5</sup>	 | Emin7 <sup>3,1,7</sup>	 | A7 <sup>3</sup>	 |
+ | Gbmin7 <sub>3</sub><sup>3,1,7</sup>	 | B7 <sub>3</sub><sup>3,11,5</sup>	 | Emin7 <sub>3</sub><sup>3,1,7</sup>	 | A7 <sub>3</sub>	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -118,24 +118,24 @@ Common keys:
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Amin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | D7 <sup>13</sup>	 | %13 <sup>5,3,9</sup>	 |
- | Gmaj7 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Amin7 <sub>9</sub>	 | %9 <sub>1</sub>	 | D7 <sub>13</sub>	 | %13 <sub>5</sub><sup>5,3,9</sup>	 |
+ | Gmaj7 <sub>5</sub>	 | % 	 | % 	 | % 	 |
  | Abmin7 	 | % 	 | Db7 	 | % 	 | E7 	 |
- | Gbmin7 <sup>3,1,7</sup>	 | B7 <sup>3,11,5</sup>	 | Emin7 <sup>3,1,7</sup>	 | A7 <sup>3</sup>	 |
+ | Gbmin7 <sub>3</sub><sup>3,1,7</sup>	 | B7 <sub>3</sub><sup>3,11,5</sup>	 | Emin7 <sub>3</sub><sup>3,1,7</sup>	 | A7 <sub>3</sub>	 |
  |
 
 
 ## Eb
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Ebmaj7 <sup>11,3,7</sup>	 | % 	 | Bbmin7 <sup>1,9,3,9</sup>	 | Eb7 <sup>13,5,3,9</sup>	 |
- | Abmaj7 <sup>5</sup>	 | % 	 | Abmin7 <sup>1,9,3,9</sup>	 | Db7 <sup>13,5,3,9</sup>	 |
- | Ebmaj7 <sup>3,11,5</sup>	 | Cmin7 <sup>3,11,5</sup>	 | Fmin7 <sup>3,5</sup>	 | Bb7 <sup>3</sup>	 |
+ | Ebmaj7 <sub>11</sub><sup>11,3,7</sup>	 | % 	 | Bbmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | Eb7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Abmaj7 <sub>5</sub>	 | % 	 | Abmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | Db7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Ebmaj7 <sub>3</sub><sup>3,11,5</sup>	 | Cmin7 <sub>3</sub><sup>3,11,5</sup>	 | Fmin7 <sub>3</sub><sup>3,5</sup>	 | Bb7 <sub>3</sub>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Gmin7 <sup>3,1,7</sup>	 | C7 <sup>3,11,5</sup>	 | Fmin7 <sup>3,1,7</sup>	 | Bb7 <sup>3</sup>	 |
+ | Gmin7 <sub>3</sub><sup>3,1,7</sup>	 | C7 <sub>3</sub><sup>3,11,5</sup>	 | Fmin7 <sub>3</sub><sup>3,1,7</sup>	 | Bb7 <sub>3</sub>	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -145,24 +145,24 @@ Common keys:
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Bbmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | Eb7 <sup>13</sup>	 | %13 <sup>5,3,9</sup>	 |
- | Abmaj7 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Bbmin7 <sub>9</sub>	 | %9 <sub>1</sub>	 | Eb7 <sub>13</sub>	 | %13 <sub>5</sub><sup>5,3,9</sup>	 |
+ | Abmaj7 <sub>5</sub>	 | % 	 | % 	 | % 	 |
  | Amin7 	 | % 	 | D7 	 | % 	 | F7 	 |
- | Gmin7 <sup>3,1,7</sup>	 | C7 <sup>3,11,5</sup>	 | Fmin7 <sup>3,1,7</sup>	 | Bb7 <sup>3</sup>	 |
+ | Gmin7 <sub>3</sub><sup>3,1,7</sup>	 | C7 <sub>3</sub><sup>3,11,5</sup>	 | Fmin7 <sub>3</sub><sup>3,1,7</sup>	 | Bb7 <sub>3</sub>	 |
  |
 
 
 ## E
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Emaj7 <sup>11,3,7</sup>	 | % 	 | Bmin7 <sup>1,9,3,9</sup>	 | E7 <sup>13,5,3,9</sup>	 |
- | Amaj7 <sup>5</sup>	 | % 	 | Amin7 <sup>1,9,3,9</sup>	 | D7 <sup>13,5,3,9</sup>	 |
- | Emaj7 <sup>3,11,5</sup>	 | Dbmin7 <sup>3,11,5</sup>	 | Gbmin7 <sup>3,5</sup>	 | B7 <sup>3</sup>	 |
+ | Emaj7 <sub>11</sub><sup>11,3,7</sup>	 | % 	 | Bmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | E7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Amaj7 <sub>5</sub>	 | % 	 | Amin7 <sub>1</sub><sup>1,9,3,9</sup>	 | D7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Emaj7 <sub>3</sub><sup>3,11,5</sup>	 | Dbmin7 <sub>3</sub><sup>3,11,5</sup>	 | Gbmin7 <sub>3</sub><sup>3,5</sup>	 | B7 <sub>3</sub>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Abmin7 <sup>3,1,7</sup>	 | Db7 <sup>3,11,5</sup>	 | Gbmin7 <sup>3,1,7</sup>	 | B7 <sup>3</sup>	 |
+ | Abmin7 <sub>3</sub><sup>3,1,7</sup>	 | Db7 <sub>3</sub><sup>3,11,5</sup>	 | Gbmin7 <sub>3</sub><sup>3,1,7</sup>	 | B7 <sub>3</sub>	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -172,24 +172,24 @@ Common keys:
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Bmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | E7 <sup>13</sup>	 | %13 <sup>5,3,9</sup>	 |
- | Amaj7 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Bmin7 <sub>9</sub>	 | %9 <sub>1</sub>	 | E7 <sub>13</sub>	 | %13 <sub>5</sub><sup>5,3,9</sup>	 |
+ | Amaj7 <sub>5</sub>	 | % 	 | % 	 | % 	 |
  | Bbmin7 	 | % 	 | Eb7 	 | % 	 | Gb7 	 |
- | Abmin7 <sup>3,1,7</sup>	 | Db7 <sup>3,11,5</sup>	 | Gbmin7 <sup>3,1,7</sup>	 | B7 <sup>3</sup>	 |
+ | Abmin7 <sub>3</sub><sup>3,1,7</sup>	 | Db7 <sub>3</sub><sup>3,11,5</sup>	 | Gbmin7 <sub>3</sub><sup>3,1,7</sup>	 | B7 <sub>3</sub>	 |
  |
 
 
 ## F
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Fmaj7 <sup>11,3,7</sup>	 | % 	 | Cmin7 <sup>1,9,3,9</sup>	 | F7 <sup>13,5,3,9</sup>	 |
- | Bbmaj7 <sup>5</sup>	 | % 	 | Bbmin7 <sup>1,9,3,9</sup>	 | Eb7 <sup>13,5,3,9</sup>	 |
- | Fmaj7 <sup>3,11,5</sup>	 | Dmin7 <sup>3,11,5</sup>	 | Gmin7 <sup>3,5</sup>	 | C7 <sup>3</sup>	 |
+ | Fmaj7 <sub>11</sub><sup>11,3,7</sup>	 | % 	 | Cmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | F7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Bbmaj7 <sub>5</sub>	 | % 	 | Bbmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | Eb7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Fmaj7 <sub>3</sub><sup>3,11,5</sup>	 | Dmin7 <sub>3</sub><sup>3,11,5</sup>	 | Gmin7 <sub>3</sub><sup>3,5</sup>	 | C7 <sub>3</sub>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Amin7 <sup>3,1,7</sup>	 | D7 <sup>3,11,5</sup>	 | Gmin7 <sup>3,1,7</sup>	 | C7 <sup>3</sup>	 |
+ | Amin7 <sub>3</sub><sup>3,1,7</sup>	 | D7 <sub>3</sub><sup>3,11,5</sup>	 | Gmin7 <sub>3</sub><sup>3,1,7</sup>	 | C7 <sub>3</sub>	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -199,24 +199,24 @@ Common keys:
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Cmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | F7 <sup>13</sup>	 | %13 <sup>5,3,9</sup>	 |
- | Bbmaj7 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Cmin7 <sub>9</sub>	 | %9 <sub>1</sub>	 | F7 <sub>13</sub>	 | %13 <sub>5</sub><sup>5,3,9</sup>	 |
+ | Bbmaj7 <sub>5</sub>	 | % 	 | % 	 | % 	 |
  | Bmin7 	 | % 	 | E7 	 | % 	 | G7 	 |
- | Amin7 <sup>3,1,7</sup>	 | D7 <sup>3,11,5</sup>	 | Gmin7 <sup>3,1,7</sup>	 | C7 <sup>3</sup>	 |
+ | Amin7 <sub>3</sub><sup>3,1,7</sup>	 | D7 <sub>3</sub><sup>3,11,5</sup>	 | Gmin7 <sub>3</sub><sup>3,1,7</sup>	 | C7 <sub>3</sub>	 |
  |
 
 
 ## Gb
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Gbmaj7 <sup>11,3,7</sup>	 | % 	 | Dbmin7 <sup>1,9,3,9</sup>	 | Gb7 <sup>13,5,3,9</sup>	 |
- | Bmaj7 <sup>5</sup>	 | % 	 | Bmin7 <sup>1,9,3,9</sup>	 | E7 <sup>13,5,3,9</sup>	 |
- | Gbmaj7 <sup>3,11,5</sup>	 | Ebmin7 <sup>3,11,5</sup>	 | Abmin7 <sup>3,5</sup>	 | Db7 <sup>3</sup>	 |
+ | Gbmaj7 <sub>11</sub><sup>11,3,7</sup>	 | % 	 | Dbmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | Gb7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Bmaj7 <sub>5</sub>	 | % 	 | Bmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | E7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Gbmaj7 <sub>3</sub><sup>3,11,5</sup>	 | Ebmin7 <sub>3</sub><sup>3,11,5</sup>	 | Abmin7 <sub>3</sub><sup>3,5</sup>	 | Db7 <sub>3</sub>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Bbmin7 <sup>3,1,7</sup>	 | Eb7 <sup>3,11,5</sup>	 | Abmin7 <sup>3,1,7</sup>	 | Db7 <sup>3</sup>	 |
+ | Bbmin7 <sub>3</sub><sup>3,1,7</sup>	 | Eb7 <sub>3</sub><sup>3,11,5</sup>	 | Abmin7 <sub>3</sub><sup>3,1,7</sup>	 | Db7 <sub>3</sub>	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -226,24 +226,24 @@ Common keys:
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Dbmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | Gb7 <sup>13</sup>	 | %13 <sup>5,3,9</sup>	 |
- | Bmaj7 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Dbmin7 <sub>9</sub>	 | %9 <sub>1</sub>	 | Gb7 <sub>13</sub>	 | %13 <sub>5</sub><sup>5,3,9</sup>	 |
+ | Bmaj7 <sub>5</sub>	 | % 	 | % 	 | % 	 |
  | Cmin7 	 | % 	 | F7 	 | % 	 | Ab7 	 |
- | Bbmin7 <sup>3,1,7</sup>	 | Eb7 <sup>3,11,5</sup>	 | Abmin7 <sup>3,1,7</sup>	 | Db7 <sup>3</sup>	 |
+ | Bbmin7 <sub>3</sub><sup>3,1,7</sup>	 | Eb7 <sub>3</sub><sup>3,11,5</sup>	 | Abmin7 <sub>3</sub><sup>3,1,7</sup>	 | Db7 <sub>3</sub>	 |
  |
 
 
 ## G
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Gmaj7 <sup>11,3,7</sup>	 | % 	 | Dmin7 <sup>1,9,3,9</sup>	 | G7 <sup>13,5,3,9</sup>	 |
- | Cmaj7 <sup>5</sup>	 | % 	 | Cmin7 <sup>1,9,3,9</sup>	 | F7 <sup>13,5,3,9</sup>	 |
- | Gmaj7 <sup>3,11,5</sup>	 | Emin7 <sup>3,11,5</sup>	 | Amin7 <sup>3,5</sup>	 | D7 <sup>3</sup>	 |
+ | Gmaj7 <sub>11</sub><sup>11,3,7</sup>	 | % 	 | Dmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | G7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Cmaj7 <sub>5</sub>	 | % 	 | Cmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | F7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Gmaj7 <sub>3</sub><sup>3,11,5</sup>	 | Emin7 <sub>3</sub><sup>3,11,5</sup>	 | Amin7 <sub>3</sub><sup>3,5</sup>	 | D7 <sub>3</sub>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Bmin7 <sup>3,1,7</sup>	 | E7 <sup>3,11,5</sup>	 | Amin7 <sup>3,1,7</sup>	 | D7 <sup>3</sup>	 |
+ | Bmin7 <sub>3</sub><sup>3,1,7</sup>	 | E7 <sub>3</sub><sup>3,11,5</sup>	 | Amin7 <sub>3</sub><sup>3,1,7</sup>	 | D7 <sub>3</sub>	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -253,24 +253,24 @@ Common keys:
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Dmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | G7 <sup>13</sup>	 | %13 <sup>5,3,9</sup>	 |
- | Cmaj7 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Dmin7 <sub>9</sub>	 | %9 <sub>1</sub>	 | G7 <sub>13</sub>	 | %13 <sub>5</sub><sup>5,3,9</sup>	 |
+ | Cmaj7 <sub>5</sub>	 | % 	 | % 	 | % 	 |
  | Dbmin7 	 | % 	 | Gb7 	 | % 	 | A7 	 |
- | Bmin7 <sup>3,1,7</sup>	 | E7 <sup>3,11,5</sup>	 | Amin7 <sup>3,1,7</sup>	 | D7 <sup>3</sup>	 |
+ | Bmin7 <sub>3</sub><sup>3,1,7</sup>	 | E7 <sub>3</sub><sup>3,11,5</sup>	 | Amin7 <sub>3</sub><sup>3,1,7</sup>	 | D7 <sub>3</sub>	 |
  |
 
 
 ## Ab
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Abmaj7 <sup>11,3,7</sup>	 | % 	 | Ebmin7 <sup>1,9,3,9</sup>	 | Ab7 <sup>13,5,3,9</sup>	 |
- | Dbmaj7 <sup>5</sup>	 | % 	 | Dbmin7 <sup>1,9,3,9</sup>	 | Gb7 <sup>13,5,3,9</sup>	 |
- | Abmaj7 <sup>3,11,5</sup>	 | Fmin7 <sup>3,11,5</sup>	 | Bbmin7 <sup>3,5</sup>	 | Eb7 <sup>3</sup>	 |
+ | Abmaj7 <sub>11</sub><sup>11,3,7</sup>	 | % 	 | Ebmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | Ab7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Dbmaj7 <sub>5</sub>	 | % 	 | Dbmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | Gb7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Abmaj7 <sub>3</sub><sup>3,11,5</sup>	 | Fmin7 <sub>3</sub><sup>3,11,5</sup>	 | Bbmin7 <sub>3</sub><sup>3,5</sup>	 | Eb7 <sub>3</sub>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Cmin7 <sup>3,1,7</sup>	 | F7 <sup>3,11,5</sup>	 | Bbmin7 <sup>3,1,7</sup>	 | Eb7 <sup>3</sup>	 |
+ | Cmin7 <sub>3</sub><sup>3,1,7</sup>	 | F7 <sub>3</sub><sup>3,11,5</sup>	 | Bbmin7 <sub>3</sub><sup>3,1,7</sup>	 | Eb7 <sub>3</sub>	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -280,24 +280,24 @@ Common keys:
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Ebmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | Ab7 <sup>13</sup>	 | %13 <sup>5,3,9</sup>	 |
- | Dbmaj7 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Ebmin7 <sub>9</sub>	 | %9 <sub>1</sub>	 | Ab7 <sub>13</sub>	 | %13 <sub>5</sub><sup>5,3,9</sup>	 |
+ | Dbmaj7 <sub>5</sub>	 | % 	 | % 	 | % 	 |
  | Dmin7 	 | % 	 | G7 	 | % 	 | Bb7 	 |
- | Cmin7 <sup>3,1,7</sup>	 | F7 <sup>3,11,5</sup>	 | Bbmin7 <sup>3,1,7</sup>	 | Eb7 <sup>3</sup>	 |
+ | Cmin7 <sub>3</sub><sup>3,1,7</sup>	 | F7 <sub>3</sub><sup>3,11,5</sup>	 | Bbmin7 <sub>3</sub><sup>3,1,7</sup>	 | Eb7 <sub>3</sub>	 |
  |
 
 
 ## A
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Amaj7 <sup>11,3,7</sup>	 | % 	 | Emin7 <sup>1,9,3,9</sup>	 | A7 <sup>13,5,3,9</sup>	 |
- | Dmaj7 <sup>5</sup>	 | % 	 | Dmin7 <sup>1,9,3,9</sup>	 | G7 <sup>13,5,3,9</sup>	 |
- | Amaj7 <sup>3,11,5</sup>	 | Gbmin7 <sup>3,11,5</sup>	 | Bmin7 <sup>3,5</sup>	 | E7 <sup>3</sup>	 |
+ | Amaj7 <sub>11</sub><sup>11,3,7</sup>	 | % 	 | Emin7 <sub>1</sub><sup>1,9,3,9</sup>	 | A7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Dmaj7 <sub>5</sub>	 | % 	 | Dmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | G7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Amaj7 <sub>3</sub><sup>3,11,5</sup>	 | Gbmin7 <sub>3</sub><sup>3,11,5</sup>	 | Bmin7 <sub>3</sub><sup>3,5</sup>	 | E7 <sub>3</sub>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Dbmin7 <sup>3,1,7</sup>	 | Gb7 <sup>3,11,5</sup>	 | Bmin7 <sup>3,1,7</sup>	 | E7 <sup>3</sup>	 |
+ | Dbmin7 <sub>3</sub><sup>3,1,7</sup>	 | Gb7 <sub>3</sub><sup>3,11,5</sup>	 | Bmin7 <sub>3</sub><sup>3,1,7</sup>	 | E7 <sub>3</sub>	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -307,24 +307,24 @@ Common keys:
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Emin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | A7 <sup>13</sup>	 | %13 <sup>5,3,9</sup>	 |
- | Dmaj7 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Emin7 <sub>9</sub>	 | %9 <sub>1</sub>	 | A7 <sub>13</sub>	 | %13 <sub>5</sub><sup>5,3,9</sup>	 |
+ | Dmaj7 <sub>5</sub>	 | % 	 | % 	 | % 	 |
  | Ebmin7 	 | % 	 | Ab7 	 | % 	 | B7 	 |
- | Dbmin7 <sup>3,1,7</sup>	 | Gb7 <sup>3,11,5</sup>	 | Bmin7 <sup>3,1,7</sup>	 | E7 <sup>3</sup>	 |
+ | Dbmin7 <sub>3</sub><sup>3,1,7</sup>	 | Gb7 <sub>3</sub><sup>3,11,5</sup>	 | Bmin7 <sub>3</sub><sup>3,1,7</sup>	 | E7 <sub>3</sub>	 |
  |
 
 
 ## Bb
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Bbmaj7 <sup>11,3,7</sup>	 | % 	 | Fmin7 <sup>1,9,3,9</sup>	 | Bb7 <sup>13,5,3,9</sup>	 |
- | Ebmaj7 <sup>5</sup>	 | % 	 | Ebmin7 <sup>1,9,3,9</sup>	 | Ab7 <sup>13,5,3,9</sup>	 |
- | Bbmaj7 <sup>3,11,5</sup>	 | Gmin7 <sup>3,11,5</sup>	 | Cmin7 <sup>3,5</sup>	 | F7 <sup>3</sup>	 |
+ | Bbmaj7 <sub>11</sub><sup>11,3,7</sup>	 | % 	 | Fmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | Bb7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Ebmaj7 <sub>5</sub>	 | % 	 | Ebmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | Ab7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Bbmaj7 <sub>3</sub><sup>3,11,5</sup>	 | Gmin7 <sub>3</sub><sup>3,11,5</sup>	 | Cmin7 <sub>3</sub><sup>3,5</sup>	 | F7 <sub>3</sub>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Dmin7 <sup>3,1,7</sup>	 | G7 <sup>3,11,5</sup>	 | Cmin7 <sup>3,1,7</sup>	 | F7 <sup>3</sup>	 |
+ | Dmin7 <sub>3</sub><sup>3,1,7</sup>	 | G7 <sub>3</sub><sup>3,11,5</sup>	 | Cmin7 <sub>3</sub><sup>3,1,7</sup>	 | F7 <sub>3</sub>	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -334,24 +334,24 @@ Common keys:
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Fmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | Bb7 <sup>13</sup>	 | %13 <sup>5,3,9</sup>	 |
- | Ebmaj7 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Fmin7 <sub>9</sub>	 | %9 <sub>1</sub>	 | Bb7 <sub>13</sub>	 | %13 <sub>5</sub><sup>5,3,9</sup>	 |
+ | Ebmaj7 <sub>5</sub>	 | % 	 | % 	 | % 	 |
  | Emin7 	 | % 	 | A7 	 | % 	 | C7 	 |
- | Dmin7 <sup>3,1,7</sup>	 | G7 <sup>3,11,5</sup>	 | Cmin7 <sup>3,1,7</sup>	 | F7 <sup>3</sup>	 |
+ | Dmin7 <sub>3</sub><sup>3,1,7</sup>	 | G7 <sub>3</sub><sup>3,11,5</sup>	 | Cmin7 <sub>3</sub><sup>3,1,7</sup>	 | F7 <sub>3</sub>	 |
  |
 
 
 ## B
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Bmaj7 <sup>11,3,7</sup>	 | % 	 | Gbmin7 <sup>1,9,3,9</sup>	 | B7 <sup>13,5,3,9</sup>	 |
- | Emaj7 <sup>5</sup>	 | % 	 | Emin7 <sup>1,9,3,9</sup>	 | A7 <sup>13,5,3,9</sup>	 |
- | Bmaj7 <sup>3,11,5</sup>	 | Abmin7 <sup>3,11,5</sup>	 | Dbmin7 <sup>3,5</sup>	 | Gb7 <sup>3</sup>	 |
+ | Bmaj7 <sub>11</sub><sup>11,3,7</sup>	 | % 	 | Gbmin7 <sub>1</sub><sup>1,9,3,9</sup>	 | B7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Emaj7 <sub>5</sub>	 | % 	 | Emin7 <sub>1</sub><sup>1,9,3,9</sup>	 | A7 <sub>13</sub><sup>13,5,3,9</sup>	 |
+ | Bmaj7 <sub>3</sub><sup>3,11,5</sup>	 | Abmin7 <sub>3</sub><sup>3,11,5</sup>	 | Dbmin7 <sub>3</sub><sup>3,5</sup>	 | Gb7 <sub>3</sub>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Ebmin7 <sup>3,1,7</sup>	 | Ab7 <sup>3,11,5</sup>	 | Dbmin7 <sup>3,1,7</sup>	 | Gb7 <sup>3</sup>	 |
+ | Ebmin7 <sub>3</sub><sup>3,1,7</sup>	 | Ab7 <sub>3</sub><sup>3,11,5</sup>	 | Dbmin7 <sub>3</sub><sup>3,1,7</sup>	 | Gb7 <sub>3</sub>	 |
  |
 
  | A2	 |  	 |  	 |  	|
@@ -361,10 +361,10 @@ Common keys:
 
  | B	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Gbmin7 <sup>9</sup>	 | %9 <sup>1</sup>	 | B7 <sup>13</sup>	 | %13 <sup>5,3,9</sup>	 |
- | Emaj7 <sup>5</sup>	 | % 	 | % 	 | % 	 |
+ | Gbmin7 <sub>9</sub>	 | %9 <sub>1</sub>	 | B7 <sub>13</sub>	 | %13 <sub>5</sub><sup>5,3,9</sup>	 |
+ | Emaj7 <sub>5</sub>	 | % 	 | % 	 | % 	 |
  | Fmin7 	 | % 	 | Bb7 	 | % 	 | Db7 	 |
- | Ebmin7 <sup>3,1,7</sup>	 | Ab7 <sup>3,11,5</sup>	 | Dbmin7 <sup>3,1,7</sup>	 | Gb7 <sup>3</sup>	 |
+ | Ebmin7 <sub>3</sub><sup>3,1,7</sup>	 | Ab7 <sub>3</sub><sup>3,11,5</sup>	 | Dbmin7 <sub>3</sub><sup>3,1,7</sup>	 | Gb7 <sub>3</sub>	 |
  |
 
 
