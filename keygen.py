@@ -113,7 +113,7 @@ for f in glob.glob('songs/*.y?ml'):
                             bassnote = tokens[2]
                             bassnote = '<sub>' + bassnote + '</sub>'
                         if len(tokens) > 3:
-                            extensions = tokens[2:]
+                            extensions = tokens[3:]
                             extensions_str = '<sup>'
                             for i, e in enumerate(extensions):
                                 extensions_str += e
