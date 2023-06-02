@@ -1,13 +1,13 @@
 nav:
 - Home: index.md
 - Songs:
-  - Someday my prince will come: songs/someday.md
-  - Just Friends: songs/justfriends.md
+  - Trouble in mind: songs/troubleinmind.md
+  - Body and Soul: songs/bodyandsoul.md
+  - Beautiful Love: songs/beautifulllove.md
   - Another You: songs/anotheryou.md
   - Misty: songs/misty.md
-  - Beautiful Love: songs/beautifulllove.md
-  - Body and Soul: songs/bodyandsoul.md
-  - Trouble in mind: songs/troubleinmind.md
+  - Just Friends: songs/justfriends.md
+  - Someday my prince will come: songs/someday.md
 site_name: FakeSite
 site_url: https://spisakt.github.io/fakesite
 theme:

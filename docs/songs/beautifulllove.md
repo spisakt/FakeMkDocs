@@ -19,10 +19,11 @@ swing, from sweet/moderate to uptempo
 #  Keys
 Common keys:
  - [F](#F)
+ - [D](#D)
 ## Roman Numeral
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | II- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Id <sub>3</sub><sup>1,7,6,7</sup>	 | I+ <sub>6</sub><sup>1</sup>	 | IVd <sub>5</sub><sup>6,7</sup>	 |
+ | IV- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Id <sub>3</sub><sup>1,7,6,7</sup>	 | I+ <sub>6</sub><sup>1</sup>	 | IVd <sub>5</sub><sup>6,7</sup>	 |
  | IV+ <sub>6</sub><sup>9,1,7</sup>	 | Id <sub>3</sub><sup>9,1,9</sup>	 | I+ <sub>1</sub><sup>3</sup>	 | Id <sub>3</sub><sup>3,b5,b6</sup>	 |
  | I+ <sub>6</sub><sup>7,6,3</sup>	 | IV+ <sub>6</sub><sup>9,1,6</sup>	 | Id2 <sub>b7</sub>	 | Id <sub>7</sub>	 |
  |
@@ -41,7 +42,7 @@ Common keys:
 ## C
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | D- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Cd <sub>3</sub><sup>1,7,6,7</sup>	 | C+ <sub>6</sub><sup>1</sup>	 | Fd <sub>5</sub><sup>6,7</sup>	 |
+ | F- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Cd <sub>3</sub><sup>1,7,6,7</sup>	 | C+ <sub>6</sub><sup>1</sup>	 | Fd <sub>5</sub><sup>6,7</sup>	 |
  | F+ <sub>6</sub><sup>9,1,7</sup>	 | Cd <sub>3</sub><sup>9,1,9</sup>	 | C+ <sub>1</sub><sup>3</sup>	 | Cd <sub>3</sub><sup>3,b5,b6</sup>	 |
  | C+ <sub>6</sub><sup>7,6,3</sup>	 | F+ <sub>6</sub><sup>9,1,6</sup>	 | Cd2 <sub>b7</sub>	 | Cd <sub>7</sub>	 |
  |
@@ -60,7 +61,7 @@ Common keys:
 ## Db
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Eb- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Dbd <sub>3</sub><sup>1,7,6,7</sup>	 | Db+ <sub>6</sub><sup>1</sup>	 | Gbd <sub>5</sub><sup>6,7</sup>	 |
+ | Gb- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Dbd <sub>3</sub><sup>1,7,6,7</sup>	 | Db+ <sub>6</sub><sup>1</sup>	 | Gbd <sub>5</sub><sup>6,7</sup>	 |
  | Gb+ <sub>6</sub><sup>9,1,7</sup>	 | Dbd <sub>3</sub><sup>9,1,9</sup>	 | Db+ <sub>1</sub><sup>3</sup>	 | Dbd <sub>3</sub><sup>3,b5,b6</sup>	 |
  | Db+ <sub>6</sub><sup>7,6,3</sup>	 | Gb+ <sub>6</sub><sup>9,1,6</sup>	 | Dbd2 <sub>b7</sub>	 | Dbd <sub>7</sub>	 |
  |
@@ -79,7 +80,7 @@ Common keys:
 ## D
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | E- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Dd <sub>3</sub><sup>1,7,6,7</sup>	 | D+ <sub>6</sub><sup>1</sup>	 | Gd <sub>5</sub><sup>6,7</sup>	 |
+ | G- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Dd <sub>3</sub><sup>1,7,6,7</sup>	 | D+ <sub>6</sub><sup>1</sup>	 | Gd <sub>5</sub><sup>6,7</sup>	 |
  | G+ <sub>6</sub><sup>9,1,7</sup>	 | Dd <sub>3</sub><sup>9,1,9</sup>	 | D+ <sub>1</sub><sup>3</sup>	 | Dd <sub>3</sub><sup>3,b5,b6</sup>	 |
  | D+ <sub>6</sub><sup>7,6,3</sup>	 | G+ <sub>6</sub><sup>9,1,6</sup>	 | Dd2 <sub>b7</sub>	 | Dd <sub>7</sub>	 |
  |
@@ -98,7 +99,7 @@ Common keys:
 ## Eb
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | F- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Ebd <sub>3</sub><sup>1,7,6,7</sup>	 | Eb+ <sub>6</sub><sup>1</sup>	 | Abd <sub>5</sub><sup>6,7</sup>	 |
+ | Ab- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Ebd <sub>3</sub><sup>1,7,6,7</sup>	 | Eb+ <sub>6</sub><sup>1</sup>	 | Abd <sub>5</sub><sup>6,7</sup>	 |
  | Ab+ <sub>6</sub><sup>9,1,7</sup>	 | Ebd <sub>3</sub><sup>9,1,9</sup>	 | Eb+ <sub>1</sub><sup>3</sup>	 | Ebd <sub>3</sub><sup>3,b5,b6</sup>	 |
  | Eb+ <sub>6</sub><sup>7,6,3</sup>	 | Ab+ <sub>6</sub><sup>9,1,6</sup>	 | Ebd2 <sub>b7</sub>	 | Ebd <sub>7</sub>	 |
  |
@@ -117,7 +118,7 @@ Common keys:
 ## E
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Gb- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Ed <sub>3</sub><sup>1,7,6,7</sup>	 | E+ <sub>6</sub><sup>1</sup>	 | Ad <sub>5</sub><sup>6,7</sup>	 |
+ | A- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Ed <sub>3</sub><sup>1,7,6,7</sup>	 | E+ <sub>6</sub><sup>1</sup>	 | Ad <sub>5</sub><sup>6,7</sup>	 |
  | A+ <sub>6</sub><sup>9,1,7</sup>	 | Ed <sub>3</sub><sup>9,1,9</sup>	 | E+ <sub>1</sub><sup>3</sup>	 | Ed <sub>3</sub><sup>3,b5,b6</sup>	 |
  | E+ <sub>6</sub><sup>7,6,3</sup>	 | A+ <sub>6</sub><sup>9,1,6</sup>	 | Ed2 <sub>b7</sub>	 | Ed <sub>7</sub>	 |
  |
@@ -136,7 +137,7 @@ Common keys:
 ## F
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | G- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Fd <sub>3</sub><sup>1,7,6,7</sup>	 | F+ <sub>6</sub><sup>1</sup>	 | Bbd <sub>5</sub><sup>6,7</sup>	 |
+ | Bb- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Fd <sub>3</sub><sup>1,7,6,7</sup>	 | F+ <sub>6</sub><sup>1</sup>	 | Bbd <sub>5</sub><sup>6,7</sup>	 |
  | Bb+ <sub>6</sub><sup>9,1,7</sup>	 | Fd <sub>3</sub><sup>9,1,9</sup>	 | F+ <sub>1</sub><sup>3</sup>	 | Fd <sub>3</sub><sup>3,b5,b6</sup>	 |
  | F+ <sub>6</sub><sup>7,6,3</sup>	 | Bb+ <sub>6</sub><sup>9,1,6</sup>	 | Fd2 <sub>b7</sub>	 | Fd <sub>7</sub>	 |
  |
@@ -155,7 +156,7 @@ Common keys:
 ## Gb
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Ab- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Gbd <sub>3</sub><sup>1,7,6,7</sup>	 | Gb+ <sub>6</sub><sup>1</sup>	 | Bd <sub>5</sub><sup>6,7</sup>	 |
+ | B- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Gbd <sub>3</sub><sup>1,7,6,7</sup>	 | Gb+ <sub>6</sub><sup>1</sup>	 | Bd <sub>5</sub><sup>6,7</sup>	 |
  | B+ <sub>6</sub><sup>9,1,7</sup>	 | Gbd <sub>3</sub><sup>9,1,9</sup>	 | Gb+ <sub>1</sub><sup>3</sup>	 | Gbd <sub>3</sub><sup>3,b5,b6</sup>	 |
  | Gb+ <sub>6</sub><sup>7,6,3</sup>	 | B+ <sub>6</sub><sup>9,1,6</sup>	 | Gbd2 <sub>b7</sub>	 | Gbd <sub>7</sub>	 |
  |
@@ -174,7 +175,7 @@ Common keys:
 ## G
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | A- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Gd <sub>3</sub><sup>1,7,6,7</sup>	 | G+ <sub>6</sub><sup>1</sup>	 | Cd <sub>5</sub><sup>6,7</sup>	 |
+ | C- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Gd <sub>3</sub><sup>1,7,6,7</sup>	 | G+ <sub>6</sub><sup>1</sup>	 | Cd <sub>5</sub><sup>6,7</sup>	 |
  | C+ <sub>6</sub><sup>9,1,7</sup>	 | Gd <sub>3</sub><sup>9,1,9</sup>	 | G+ <sub>1</sub><sup>3</sup>	 | Gd <sub>3</sub><sup>3,b5,b6</sup>	 |
  | G+ <sub>6</sub><sup>7,6,3</sup>	 | C+ <sub>6</sub><sup>9,1,6</sup>	 | Gd2 <sub>b7</sub>	 | Gd <sub>7</sub>	 |
  |
@@ -193,7 +194,7 @@ Common keys:
 ## Ab
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Bb- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Abd <sub>3</sub><sup>1,7,6,7</sup>	 | Ab+ <sub>6</sub><sup>1</sup>	 | Dbd <sub>5</sub><sup>6,7</sup>	 |
+ | Db- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Abd <sub>3</sub><sup>1,7,6,7</sup>	 | Ab+ <sub>6</sub><sup>1</sup>	 | Dbd <sub>5</sub><sup>6,7</sup>	 |
  | Db+ <sub>6</sub><sup>9,1,7</sup>	 | Abd <sub>3</sub><sup>9,1,9</sup>	 | Ab+ <sub>1</sub><sup>3</sup>	 | Abd <sub>3</sub><sup>3,b5,b6</sup>	 |
  | Ab+ <sub>6</sub><sup>7,6,3</sup>	 | Db+ <sub>6</sub><sup>9,1,6</sup>	 | Abd2 <sub>b7</sub>	 | Abd <sub>7</sub>	 |
  |
@@ -212,7 +213,7 @@ Common keys:
 ## A
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | B- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Ad <sub>3</sub><sup>1,7,6,7</sup>	 | A+ <sub>6</sub><sup>1</sup>	 | Dd <sub>5</sub><sup>6,7</sup>	 |
+ | D- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Ad <sub>3</sub><sup>1,7,6,7</sup>	 | A+ <sub>6</sub><sup>1</sup>	 | Dd <sub>5</sub><sup>6,7</sup>	 |
  | D+ <sub>6</sub><sup>9,1,7</sup>	 | Ad <sub>3</sub><sup>9,1,9</sup>	 | A+ <sub>1</sub><sup>3</sup>	 | Ad <sub>3</sub><sup>3,b5,b6</sup>	 |
  | A+ <sub>6</sub><sup>7,6,3</sup>	 | D+ <sub>6</sub><sup>9,1,6</sup>	 | Ad2 <sub>b7</sub>	 | Ad <sub>7</sub>	 |
  |
@@ -231,7 +232,7 @@ Common keys:
 ## Bb
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | C- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Bbd <sub>3</sub><sup>1,7,6,7</sup>	 | Bb+ <sub>6</sub><sup>1</sup>	 | Ebd <sub>5</sub><sup>6,7</sup>	 |
+ | Eb- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Bbd <sub>3</sub><sup>1,7,6,7</sup>	 | Bb+ <sub>6</sub><sup>1</sup>	 | Ebd <sub>5</sub><sup>6,7</sup>	 |
  | Eb+ <sub>6</sub><sup>9,1,7</sup>	 | Bbd <sub>3</sub><sup>9,1,9</sup>	 | Bb+ <sub>1</sub><sup>3</sup>	 | Bbd <sub>3</sub><sup>3,b5,b6</sup>	 |
  | Bb+ <sub>6</sub><sup>7,6,3</sup>	 | Eb+ <sub>6</sub><sup>9,1,6</sup>	 | Bbd2 <sub>b7</sub>	 | Bbd <sub>7</sub>	 |
  |
@@ -250,7 +251,7 @@ Common keys:
 ## B
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Db- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Bd <sub>3</sub><sup>1,7,6,7</sup>	 | B+ <sub>6</sub><sup>1</sup>	 | Ed <sub>5</sub><sup>6,7</sup>	 |
+ | E- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Bd <sub>3</sub><sup>1,7,6,7</sup>	 | B+ <sub>6</sub><sup>1</sup>	 | Ed <sub>5</sub><sup>6,7</sup>	 |
  | E+ <sub>6</sub><sup>9,1,7</sup>	 | Bd <sub>3</sub><sup>9,1,9</sup>	 | B+ <sub>1</sub><sup>3</sup>	 | Bd <sub>3</sub><sup>3,b5,b6</sup>	 |
  | B+ <sub>6</sub><sup>7,6,3</sup>	 | E+ <sub>6</sub><sup>9,1,6</sup>	 | Bd2 <sub>b7</sub>	 | Bd <sub>7</sub>	 |
  |
