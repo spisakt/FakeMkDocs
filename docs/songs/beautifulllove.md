@@ -18,252 +18,252 @@ swing, from sweet/moderate to uptempo
 
 #  Keys
 Common keys:
- - [F](#F)
  - [D](#D)
+ - [F](#F)
 ## Roman Numeral
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | IV- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Id <sub>3</sub><sup>1,7,6,7</sup>	 | I+ <sub>6</sub><sup>1</sup>	 | IVd <sub>5</sub><sup>6,7</sup>	 |
- | IV+ <sub>6</sub><sup>9,1,7</sup>	 | Id <sub>3</sub><sup>9,1,9</sup>	 | I+ <sub>1</sub><sup>3</sup>	 | Id <sub>3</sub><sup>3,b5,b6</sup>	 |
- | I+ <sub>6</sub><sup>7,6,3</sup>	 | IV+ <sub>6</sub><sup>9,1,6</sup>	 | Id2 <sub>b7</sub>	 | Id <sub>7</sub>	 |
+ | Id=1 <sub>2</sub><sup>1,9,3,1,b7</sup>	 | Id=1 <sub>5</sub><sup>3,9,1,9</sup>	 | I= <sub>1</sub><sup>3</sup>	 | IVd=b7 <sub>b7</sub><sup>1,9</sup>	 |
+ | IV= <sub>1</sub><sup>11,3,9</sup>	 | Id=5 <sub>b7</sub><sup>5,11,3,11</sup>	 | I= <sub>3</sub><sup>5</sup>	 | Id=1 <sub>5</sub><sup>5,6,7</sup>	 |
+ | I= <sub>1</sub>	 | IV= <sub>1</sub>	 | Idd=b1 <sub>3</sub><sup>11</sup>	 | Id=1 <sub>1</sub><sup>9</sup>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | I+ <sub>6</sub><sup>3,5</sup>	 | Id <sub>2</sub><sup>b6,6</sup>	 | II- <sub>6</sub><sup>6</sup>	 | Id <sub>3</sub><sup>6,7,1</sup>	 |
+ | I= <sub>1</sub><sup>3,5</sup>	 | Id <sub>2</sub><sup>b6,6</sup>	 | Idd=b1 	 | Id=1 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | I+ <sub>6</sub><sup>3,1</sup>	 | Id <sub>3</sub><sup>b6,6</sup>	 | I+ <sub>6</sub><sup>6</sup>	 | % 	 |
+ | I= <sub>1</sub>	 | Id <sub>5</sub>	 | I= <sub>1</sub>	 | % 	 |
  |
 
 
 ## C
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | F- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Cd <sub>3</sub><sup>1,7,6,7</sup>	 | C+ <sub>6</sub><sup>1</sup>	 | Fd <sub>5</sub><sup>6,7</sup>	 |
- | F+ <sub>6</sub><sup>9,1,7</sup>	 | Cd <sub>3</sub><sup>9,1,9</sup>	 | C+ <sub>1</sub><sup>3</sup>	 | Cd <sub>3</sub><sup>3,b5,b6</sup>	 |
- | C+ <sub>6</sub><sup>7,6,3</sup>	 | F+ <sub>6</sub><sup>9,1,6</sup>	 | Cd2 <sub>b7</sub>	 | Cd <sub>7</sub>	 |
+ | Cd=1 <sub>2</sub><sup>1,9,3,1,b7</sup>	 | Cd=1 <sub>5</sub><sup>3,9,1,9</sup>	 | C= <sub>1</sub><sup>3</sup>	 | Fd=b7 <sub>b7</sub><sup>1,9</sup>	 |
+ | F= <sub>1</sub><sup>11,3,9</sup>	 | Cd=5 <sub>b7</sub><sup>5,11,3,11</sup>	 | C= <sub>3</sub><sup>5</sup>	 | Cd=1 <sub>5</sub><sup>5,6,7</sup>	 |
+ | C= <sub>1</sub>	 | F= <sub>1</sub>	 | Cdd=b1 <sub>3</sub><sup>11</sup>	 | Cd=1 <sub>1</sub><sup>9</sup>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | C+ <sub>6</sub><sup>3,5</sup>	 | Cd <sub>2</sub><sup>b6,6</sup>	 | D- <sub>6</sub><sup>6</sup>	 | Cd <sub>3</sub><sup>6,7,1</sup>	 |
+ | C= <sub>1</sub><sup>3,5</sup>	 | Cd <sub>2</sub><sup>b6,6</sup>	 | Cdd=b1 	 | Cd=1 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | C+ <sub>6</sub><sup>3,1</sup>	 | Cd <sub>3</sub><sup>b6,6</sup>	 | C+ <sub>6</sub><sup>6</sup>	 | % 	 |
+ | C= <sub>1</sub>	 | Cd <sub>5</sub>	 | C= <sub>1</sub>	 | % 	 |
  |
 
 
 ## Db
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Gb- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Dbd <sub>3</sub><sup>1,7,6,7</sup>	 | Db+ <sub>6</sub><sup>1</sup>	 | Gbd <sub>5</sub><sup>6,7</sup>	 |
- | Gb+ <sub>6</sub><sup>9,1,7</sup>	 | Dbd <sub>3</sub><sup>9,1,9</sup>	 | Db+ <sub>1</sub><sup>3</sup>	 | Dbd <sub>3</sub><sup>3,b5,b6</sup>	 |
- | Db+ <sub>6</sub><sup>7,6,3</sup>	 | Gb+ <sub>6</sub><sup>9,1,6</sup>	 | Dbd2 <sub>b7</sub>	 | Dbd <sub>7</sub>	 |
+ | Dbd=1 <sub>2</sub><sup>1,9,3,1,b7</sup>	 | Dbd=1 <sub>5</sub><sup>3,9,1,9</sup>	 | Db= <sub>1</sub><sup>3</sup>	 | Gbd=b7 <sub>b7</sub><sup>1,9</sup>	 |
+ | Gb= <sub>1</sub><sup>11,3,9</sup>	 | Dbd=5 <sub>b7</sub><sup>5,11,3,11</sup>	 | Db= <sub>3</sub><sup>5</sup>	 | Dbd=1 <sub>5</sub><sup>5,6,7</sup>	 |
+ | Db= <sub>1</sub>	 | Gb= <sub>1</sub>	 | Dbdd=b1 <sub>3</sub><sup>11</sup>	 | Dbd=1 <sub>1</sub><sup>9</sup>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Db+ <sub>6</sub><sup>3,5</sup>	 | Dbd <sub>2</sub><sup>b6,6</sup>	 | Eb- <sub>6</sub><sup>6</sup>	 | Dbd <sub>3</sub><sup>6,7,1</sup>	 |
+ | Db= <sub>1</sub><sup>3,5</sup>	 | Dbd <sub>2</sub><sup>b6,6</sup>	 | Dbdd=b1 	 | Dbd=1 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Db+ <sub>6</sub><sup>3,1</sup>	 | Dbd <sub>3</sub><sup>b6,6</sup>	 | Db+ <sub>6</sub><sup>6</sup>	 | % 	 |
+ | Db= <sub>1</sub>	 | Dbd <sub>5</sub>	 | Db= <sub>1</sub>	 | % 	 |
  |
 
 
 ## D
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | G- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Dd <sub>3</sub><sup>1,7,6,7</sup>	 | D+ <sub>6</sub><sup>1</sup>	 | Gd <sub>5</sub><sup>6,7</sup>	 |
- | G+ <sub>6</sub><sup>9,1,7</sup>	 | Dd <sub>3</sub><sup>9,1,9</sup>	 | D+ <sub>1</sub><sup>3</sup>	 | Dd <sub>3</sub><sup>3,b5,b6</sup>	 |
- | D+ <sub>6</sub><sup>7,6,3</sup>	 | G+ <sub>6</sub><sup>9,1,6</sup>	 | Dd2 <sub>b7</sub>	 | Dd <sub>7</sub>	 |
+ | Dd=1 <sub>2</sub><sup>1,9,3,1,b7</sup>	 | Dd=1 <sub>5</sub><sup>3,9,1,9</sup>	 | D= <sub>1</sub><sup>3</sup>	 | Gd=b7 <sub>b7</sub><sup>1,9</sup>	 |
+ | G= <sub>1</sub><sup>11,3,9</sup>	 | Dd=5 <sub>b7</sub><sup>5,11,3,11</sup>	 | D= <sub>3</sub><sup>5</sup>	 | Dd=1 <sub>5</sub><sup>5,6,7</sup>	 |
+ | D= <sub>1</sub>	 | G= <sub>1</sub>	 | Ddd=b1 <sub>3</sub><sup>11</sup>	 | Dd=1 <sub>1</sub><sup>9</sup>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | D+ <sub>6</sub><sup>3,5</sup>	 | Dd <sub>2</sub><sup>b6,6</sup>	 | E- <sub>6</sub><sup>6</sup>	 | Dd <sub>3</sub><sup>6,7,1</sup>	 |
+ | D= <sub>1</sub><sup>3,5</sup>	 | Dd <sub>2</sub><sup>b6,6</sup>	 | Ddd=b1 	 | Dd=1 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | D+ <sub>6</sub><sup>3,1</sup>	 | Dd <sub>3</sub><sup>b6,6</sup>	 | D+ <sub>6</sub><sup>6</sup>	 | % 	 |
+ | D= <sub>1</sub>	 | Dd <sub>5</sub>	 | D= <sub>1</sub>	 | % 	 |
  |
 
 
 ## Eb
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Ab- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Ebd <sub>3</sub><sup>1,7,6,7</sup>	 | Eb+ <sub>6</sub><sup>1</sup>	 | Abd <sub>5</sub><sup>6,7</sup>	 |
- | Ab+ <sub>6</sub><sup>9,1,7</sup>	 | Ebd <sub>3</sub><sup>9,1,9</sup>	 | Eb+ <sub>1</sub><sup>3</sup>	 | Ebd <sub>3</sub><sup>3,b5,b6</sup>	 |
- | Eb+ <sub>6</sub><sup>7,6,3</sup>	 | Ab+ <sub>6</sub><sup>9,1,6</sup>	 | Ebd2 <sub>b7</sub>	 | Ebd <sub>7</sub>	 |
+ | Ebd=1 <sub>2</sub><sup>1,9,3,1,b7</sup>	 | Ebd=1 <sub>5</sub><sup>3,9,1,9</sup>	 | Eb= <sub>1</sub><sup>3</sup>	 | Abd=b7 <sub>b7</sub><sup>1,9</sup>	 |
+ | Ab= <sub>1</sub><sup>11,3,9</sup>	 | Ebd=5 <sub>b7</sub><sup>5,11,3,11</sup>	 | Eb= <sub>3</sub><sup>5</sup>	 | Ebd=1 <sub>5</sub><sup>5,6,7</sup>	 |
+ | Eb= <sub>1</sub>	 | Ab= <sub>1</sub>	 | Ebdd=b1 <sub>3</sub><sup>11</sup>	 | Ebd=1 <sub>1</sub><sup>9</sup>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Eb+ <sub>6</sub><sup>3,5</sup>	 | Ebd <sub>2</sub><sup>b6,6</sup>	 | F- <sub>6</sub><sup>6</sup>	 | Ebd <sub>3</sub><sup>6,7,1</sup>	 |
+ | Eb= <sub>1</sub><sup>3,5</sup>	 | Ebd <sub>2</sub><sup>b6,6</sup>	 | Ebdd=b1 	 | Ebd=1 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Eb+ <sub>6</sub><sup>3,1</sup>	 | Ebd <sub>3</sub><sup>b6,6</sup>	 | Eb+ <sub>6</sub><sup>6</sup>	 | % 	 |
+ | Eb= <sub>1</sub>	 | Ebd <sub>5</sub>	 | Eb= <sub>1</sub>	 | % 	 |
  |
 
 
 ## E
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | A- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Ed <sub>3</sub><sup>1,7,6,7</sup>	 | E+ <sub>6</sub><sup>1</sup>	 | Ad <sub>5</sub><sup>6,7</sup>	 |
- | A+ <sub>6</sub><sup>9,1,7</sup>	 | Ed <sub>3</sub><sup>9,1,9</sup>	 | E+ <sub>1</sub><sup>3</sup>	 | Ed <sub>3</sub><sup>3,b5,b6</sup>	 |
- | E+ <sub>6</sub><sup>7,6,3</sup>	 | A+ <sub>6</sub><sup>9,1,6</sup>	 | Ed2 <sub>b7</sub>	 | Ed <sub>7</sub>	 |
+ | Ed=1 <sub>2</sub><sup>1,9,3,1,b7</sup>	 | Ed=1 <sub>5</sub><sup>3,9,1,9</sup>	 | E= <sub>1</sub><sup>3</sup>	 | Ad=b7 <sub>b7</sub><sup>1,9</sup>	 |
+ | A= <sub>1</sub><sup>11,3,9</sup>	 | Ed=5 <sub>b7</sub><sup>5,11,3,11</sup>	 | E= <sub>3</sub><sup>5</sup>	 | Ed=1 <sub>5</sub><sup>5,6,7</sup>	 |
+ | E= <sub>1</sub>	 | A= <sub>1</sub>	 | Edd=b1 <sub>3</sub><sup>11</sup>	 | Ed=1 <sub>1</sub><sup>9</sup>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | E+ <sub>6</sub><sup>3,5</sup>	 | Ed <sub>2</sub><sup>b6,6</sup>	 | Gb- <sub>6</sub><sup>6</sup>	 | Ed <sub>3</sub><sup>6,7,1</sup>	 |
+ | E= <sub>1</sub><sup>3,5</sup>	 | Ed <sub>2</sub><sup>b6,6</sup>	 | Edd=b1 	 | Ed=1 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | E+ <sub>6</sub><sup>3,1</sup>	 | Ed <sub>3</sub><sup>b6,6</sup>	 | E+ <sub>6</sub><sup>6</sup>	 | % 	 |
+ | E= <sub>1</sub>	 | Ed <sub>5</sub>	 | E= <sub>1</sub>	 | % 	 |
  |
 
 
 ## F
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Bb- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Fd <sub>3</sub><sup>1,7,6,7</sup>	 | F+ <sub>6</sub><sup>1</sup>	 | Bbd <sub>5</sub><sup>6,7</sup>	 |
- | Bb+ <sub>6</sub><sup>9,1,7</sup>	 | Fd <sub>3</sub><sup>9,1,9</sup>	 | F+ <sub>1</sub><sup>3</sup>	 | Fd <sub>3</sub><sup>3,b5,b6</sup>	 |
- | F+ <sub>6</sub><sup>7,6,3</sup>	 | Bb+ <sub>6</sub><sup>9,1,6</sup>	 | Fd2 <sub>b7</sub>	 | Fd <sub>7</sub>	 |
+ | Fd=1 <sub>2</sub><sup>1,9,3,1,b7</sup>	 | Fd=1 <sub>5</sub><sup>3,9,1,9</sup>	 | F= <sub>1</sub><sup>3</sup>	 | Bbd=b7 <sub>b7</sub><sup>1,9</sup>	 |
+ | Bb= <sub>1</sub><sup>11,3,9</sup>	 | Fd=5 <sub>b7</sub><sup>5,11,3,11</sup>	 | F= <sub>3</sub><sup>5</sup>	 | Fd=1 <sub>5</sub><sup>5,6,7</sup>	 |
+ | F= <sub>1</sub>	 | Bb= <sub>1</sub>	 | Fdd=b1 <sub>3</sub><sup>11</sup>	 | Fd=1 <sub>1</sub><sup>9</sup>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | F+ <sub>6</sub><sup>3,5</sup>	 | Fd <sub>2</sub><sup>b6,6</sup>	 | G- <sub>6</sub><sup>6</sup>	 | Fd <sub>3</sub><sup>6,7,1</sup>	 |
+ | F= <sub>1</sub><sup>3,5</sup>	 | Fd <sub>2</sub><sup>b6,6</sup>	 | Fdd=b1 	 | Fd=1 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | F+ <sub>6</sub><sup>3,1</sup>	 | Fd <sub>3</sub><sup>b6,6</sup>	 | F+ <sub>6</sub><sup>6</sup>	 | % 	 |
+ | F= <sub>1</sub>	 | Fd <sub>5</sub>	 | F= <sub>1</sub>	 | % 	 |
  |
 
 
 ## Gb
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | B- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Gbd <sub>3</sub><sup>1,7,6,7</sup>	 | Gb+ <sub>6</sub><sup>1</sup>	 | Bd <sub>5</sub><sup>6,7</sup>	 |
- | B+ <sub>6</sub><sup>9,1,7</sup>	 | Gbd <sub>3</sub><sup>9,1,9</sup>	 | Gb+ <sub>1</sub><sup>3</sup>	 | Gbd <sub>3</sub><sup>3,b5,b6</sup>	 |
- | Gb+ <sub>6</sub><sup>7,6,3</sup>	 | B+ <sub>6</sub><sup>9,1,6</sup>	 | Gbd2 <sub>b7</sub>	 | Gbd <sub>7</sub>	 |
+ | Gbd=1 <sub>2</sub><sup>1,9,3,1,b7</sup>	 | Gbd=1 <sub>5</sub><sup>3,9,1,9</sup>	 | Gb= <sub>1</sub><sup>3</sup>	 | Bd=b7 <sub>b7</sub><sup>1,9</sup>	 |
+ | B= <sub>1</sub><sup>11,3,9</sup>	 | Gbd=5 <sub>b7</sub><sup>5,11,3,11</sup>	 | Gb= <sub>3</sub><sup>5</sup>	 | Gbd=1 <sub>5</sub><sup>5,6,7</sup>	 |
+ | Gb= <sub>1</sub>	 | B= <sub>1</sub>	 | Gbdd=b1 <sub>3</sub><sup>11</sup>	 | Gbd=1 <sub>1</sub><sup>9</sup>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Gb+ <sub>6</sub><sup>3,5</sup>	 | Gbd <sub>2</sub><sup>b6,6</sup>	 | Ab- <sub>6</sub><sup>6</sup>	 | Gbd <sub>3</sub><sup>6,7,1</sup>	 |
+ | Gb= <sub>1</sub><sup>3,5</sup>	 | Gbd <sub>2</sub><sup>b6,6</sup>	 | Gbdd=b1 	 | Gbd=1 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Gb+ <sub>6</sub><sup>3,1</sup>	 | Gbd <sub>3</sub><sup>b6,6</sup>	 | Gb+ <sub>6</sub><sup>6</sup>	 | % 	 |
+ | Gb= <sub>1</sub>	 | Gbd <sub>5</sub>	 | Gb= <sub>1</sub>	 | % 	 |
  |
 
 
 ## G
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | C- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Gd <sub>3</sub><sup>1,7,6,7</sup>	 | G+ <sub>6</sub><sup>1</sup>	 | Cd <sub>5</sub><sup>6,7</sup>	 |
- | C+ <sub>6</sub><sup>9,1,7</sup>	 | Gd <sub>3</sub><sup>9,1,9</sup>	 | G+ <sub>1</sub><sup>3</sup>	 | Gd <sub>3</sub><sup>3,b5,b6</sup>	 |
- | G+ <sub>6</sub><sup>7,6,3</sup>	 | C+ <sub>6</sub><sup>9,1,6</sup>	 | Gd2 <sub>b7</sub>	 | Gd <sub>7</sub>	 |
+ | Gd=1 <sub>2</sub><sup>1,9,3,1,b7</sup>	 | Gd=1 <sub>5</sub><sup>3,9,1,9</sup>	 | G= <sub>1</sub><sup>3</sup>	 | Cd=b7 <sub>b7</sub><sup>1,9</sup>	 |
+ | C= <sub>1</sub><sup>11,3,9</sup>	 | Gd=5 <sub>b7</sub><sup>5,11,3,11</sup>	 | G= <sub>3</sub><sup>5</sup>	 | Gd=1 <sub>5</sub><sup>5,6,7</sup>	 |
+ | G= <sub>1</sub>	 | C= <sub>1</sub>	 | Gdd=b1 <sub>3</sub><sup>11</sup>	 | Gd=1 <sub>1</sub><sup>9</sup>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | G+ <sub>6</sub><sup>3,5</sup>	 | Gd <sub>2</sub><sup>b6,6</sup>	 | A- <sub>6</sub><sup>6</sup>	 | Gd <sub>3</sub><sup>6,7,1</sup>	 |
+ | G= <sub>1</sub><sup>3,5</sup>	 | Gd <sub>2</sub><sup>b6,6</sup>	 | Gdd=b1 	 | Gd=1 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | G+ <sub>6</sub><sup>3,1</sup>	 | Gd <sub>3</sub><sup>b6,6</sup>	 | G+ <sub>6</sub><sup>6</sup>	 | % 	 |
+ | G= <sub>1</sub>	 | Gd <sub>5</sub>	 | G= <sub>1</sub>	 | % 	 |
  |
 
 
 ## Ab
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Db- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Abd <sub>3</sub><sup>1,7,6,7</sup>	 | Ab+ <sub>6</sub><sup>1</sup>	 | Dbd <sub>5</sub><sup>6,7</sup>	 |
- | Db+ <sub>6</sub><sup>9,1,7</sup>	 | Abd <sub>3</sub><sup>9,1,9</sup>	 | Ab+ <sub>1</sub><sup>3</sup>	 | Abd <sub>3</sub><sup>3,b5,b6</sup>	 |
- | Ab+ <sub>6</sub><sup>7,6,3</sup>	 | Db+ <sub>6</sub><sup>9,1,6</sup>	 | Abd2 <sub>b7</sub>	 | Abd <sub>7</sub>	 |
+ | Abd=1 <sub>2</sub><sup>1,9,3,1,b7</sup>	 | Abd=1 <sub>5</sub><sup>3,9,1,9</sup>	 | Ab= <sub>1</sub><sup>3</sup>	 | Dbd=b7 <sub>b7</sub><sup>1,9</sup>	 |
+ | Db= <sub>1</sub><sup>11,3,9</sup>	 | Abd=5 <sub>b7</sub><sup>5,11,3,11</sup>	 | Ab= <sub>3</sub><sup>5</sup>	 | Abd=1 <sub>5</sub><sup>5,6,7</sup>	 |
+ | Ab= <sub>1</sub>	 | Db= <sub>1</sub>	 | Abdd=b1 <sub>3</sub><sup>11</sup>	 | Abd=1 <sub>1</sub><sup>9</sup>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Ab+ <sub>6</sub><sup>3,5</sup>	 | Abd <sub>2</sub><sup>b6,6</sup>	 | Bb- <sub>6</sub><sup>6</sup>	 | Abd <sub>3</sub><sup>6,7,1</sup>	 |
+ | Ab= <sub>1</sub><sup>3,5</sup>	 | Abd <sub>2</sub><sup>b6,6</sup>	 | Abdd=b1 	 | Abd=1 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Ab+ <sub>6</sub><sup>3,1</sup>	 | Abd <sub>3</sub><sup>b6,6</sup>	 | Ab+ <sub>6</sub><sup>6</sup>	 | % 	 |
+ | Ab= <sub>1</sub>	 | Abd <sub>5</sub>	 | Ab= <sub>1</sub>	 | % 	 |
  |
 
 
 ## A
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | D- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Ad <sub>3</sub><sup>1,7,6,7</sup>	 | A+ <sub>6</sub><sup>1</sup>	 | Dd <sub>5</sub><sup>6,7</sup>	 |
- | D+ <sub>6</sub><sup>9,1,7</sup>	 | Ad <sub>3</sub><sup>9,1,9</sup>	 | A+ <sub>1</sub><sup>3</sup>	 | Ad <sub>3</sub><sup>3,b5,b6</sup>	 |
- | A+ <sub>6</sub><sup>7,6,3</sup>	 | D+ <sub>6</sub><sup>9,1,6</sup>	 | Ad2 <sub>b7</sub>	 | Ad <sub>7</sub>	 |
+ | Ad=1 <sub>2</sub><sup>1,9,3,1,b7</sup>	 | Ad=1 <sub>5</sub><sup>3,9,1,9</sup>	 | A= <sub>1</sub><sup>3</sup>	 | Dd=b7 <sub>b7</sub><sup>1,9</sup>	 |
+ | D= <sub>1</sub><sup>11,3,9</sup>	 | Ad=5 <sub>b7</sub><sup>5,11,3,11</sup>	 | A= <sub>3</sub><sup>5</sup>	 | Ad=1 <sub>5</sub><sup>5,6,7</sup>	 |
+ | A= <sub>1</sub>	 | D= <sub>1</sub>	 | Add=b1 <sub>3</sub><sup>11</sup>	 | Ad=1 <sub>1</sub><sup>9</sup>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | A+ <sub>6</sub><sup>3,5</sup>	 | Ad <sub>2</sub><sup>b6,6</sup>	 | B- <sub>6</sub><sup>6</sup>	 | Ad <sub>3</sub><sup>6,7,1</sup>	 |
+ | A= <sub>1</sub><sup>3,5</sup>	 | Ad <sub>2</sub><sup>b6,6</sup>	 | Add=b1 	 | Ad=1 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | A+ <sub>6</sub><sup>3,1</sup>	 | Ad <sub>3</sub><sup>b6,6</sup>	 | A+ <sub>6</sub><sup>6</sup>	 | % 	 |
+ | A= <sub>1</sub>	 | Ad <sub>5</sub>	 | A= <sub>1</sub>	 | % 	 |
  |
 
 
 ## Bb
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Eb- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Bbd <sub>3</sub><sup>1,7,6,7</sup>	 | Bb+ <sub>6</sub><sup>1</sup>	 | Ebd <sub>5</sub><sup>6,7</sup>	 |
- | Eb+ <sub>6</sub><sup>9,1,7</sup>	 | Bbd <sub>3</sub><sup>9,1,9</sup>	 | Bb+ <sub>1</sub><sup>3</sup>	 | Bbd <sub>3</sub><sup>3,b5,b6</sup>	 |
- | Bb+ <sub>6</sub><sup>7,6,3</sup>	 | Eb+ <sub>6</sub><sup>9,1,6</sup>	 | Bbd2 <sub>b7</sub>	 | Bbd <sub>7</sub>	 |
+ | Bbd=1 <sub>2</sub><sup>1,9,3,1,b7</sup>	 | Bbd=1 <sub>5</sub><sup>3,9,1,9</sup>	 | Bb= <sub>1</sub><sup>3</sup>	 | Ebd=b7 <sub>b7</sub><sup>1,9</sup>	 |
+ | Eb= <sub>1</sub><sup>11,3,9</sup>	 | Bbd=5 <sub>b7</sub><sup>5,11,3,11</sup>	 | Bb= <sub>3</sub><sup>5</sup>	 | Bbd=1 <sub>5</sub><sup>5,6,7</sup>	 |
+ | Bb= <sub>1</sub>	 | Eb= <sub>1</sub>	 | Bbdd=b1 <sub>3</sub><sup>11</sup>	 | Bbd=1 <sub>1</sub><sup>9</sup>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Bb+ <sub>6</sub><sup>3,5</sup>	 | Bbd <sub>2</sub><sup>b6,6</sup>	 | C- <sub>6</sub><sup>6</sup>	 | Bbd <sub>3</sub><sup>6,7,1</sup>	 |
+ | Bb= <sub>1</sub><sup>3,5</sup>	 | Bbd <sub>2</sub><sup>b6,6</sup>	 | Bbdd=b1 	 | Bbd=1 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | Bb+ <sub>6</sub><sup>3,1</sup>	 | Bbd <sub>3</sub><sup>b6,6</sup>	 | Bb+ <sub>6</sub><sup>6</sup>	 | % 	 |
+ | Bb= <sub>1</sub>	 | Bbd <sub>5</sub>	 | Bb= <sub>1</sub>	 | % 	 |
  |
 
 
 ## B
  | A	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | E- <sub>6</sub><sup>5,6,7,9,1</sup>	 | Bd <sub>3</sub><sup>1,7,6,7</sup>	 | B+ <sub>6</sub><sup>1</sup>	 | Ed <sub>5</sub><sup>6,7</sup>	 |
- | E+ <sub>6</sub><sup>9,1,7</sup>	 | Bd <sub>3</sub><sup>9,1,9</sup>	 | B+ <sub>1</sub><sup>3</sup>	 | Bd <sub>3</sub><sup>3,b5,b6</sup>	 |
- | B+ <sub>6</sub><sup>7,6,3</sup>	 | E+ <sub>6</sub><sup>9,1,6</sup>	 | Bd2 <sub>b7</sub>	 | Bd <sub>7</sub>	 |
+ | Bd=1 <sub>2</sub><sup>1,9,3,1,b7</sup>	 | Bd=1 <sub>5</sub><sup>3,9,1,9</sup>	 | B= <sub>1</sub><sup>3</sup>	 | Ed=b7 <sub>b7</sub><sup>1,9</sup>	 |
+ | E= <sub>1</sub><sup>11,3,9</sup>	 | Bd=5 <sub>b7</sub><sup>5,11,3,11</sup>	 | B= <sub>3</sub><sup>5</sup>	 | Bd=1 <sub>5</sub><sup>5,6,7</sup>	 |
+ | B= <sub>1</sub>	 | E= <sub>1</sub>	 | Bdd=b1 <sub>3</sub><sup>11</sup>	 | Bd=1 <sub>1</sub><sup>9</sup>	 |
  |
 
  | A1	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | B+ <sub>6</sub><sup>3,5</sup>	 | Bd <sub>2</sub><sup>b6,6</sup>	 | Db- <sub>6</sub><sup>6</sup>	 | Bd <sub>3</sub><sup>6,7,1</sup>	 |
+ | B= <sub>1</sub><sup>3,5</sup>	 | Bd <sub>2</sub><sup>b6,6</sup>	 | Bdd=b1 	 | Bd=1 	 |
  |
 
  | A2	 |  	 |  	 |  	|
  |----------	 |----------	 |----------	 |----------	|
- | B+ <sub>6</sub><sup>3,1</sup>	 | Bd <sub>3</sub><sup>b6,6</sup>	 | B+ <sub>6</sub><sup>6</sup>	 | % 	 |
+ | B= <sub>1</sub>	 | Bd <sub>5</sub>	 | B= <sub>1</sub>	 | % 	 |
  |
 
 
