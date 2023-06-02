@@ -5,7 +5,7 @@
 base note, kind, bass(+addons), melody notes relative to the base note
 
 #### Improvise easily:
-- look only at the first two character. Only 3 main characters: e.g I,+ -> major 6, I,- -> minor 6 I,-- -> minor 7
+- look only at the first two character. Only 3 main characters: e.g I,+ -> major 6, I,- -> minor 6 I,= -> minor 7 (inversion of major 6)
 - this usually changes much slower than in the fake/real books but still makes a lot of sense usually
 - consider touching melody notes
 #### Comping:
@@ -22,7 +22,7 @@ base note, kind, bass(+addons), melody notes relative to the base note
 
 ### II chord
 
-II,-- (IV minor sixth with 6th in the bass): IImin7b5
+II,=: IImin7 (IV major sixth with 6th in the bass)
 
 or 
 
