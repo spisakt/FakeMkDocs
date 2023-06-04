@@ -1,4 +1,5 @@
-# Welcome!
+# Welcome! - This site is under construction!!!
+Send me a mail if interested: spisak . tms @ gmail.com
 
 ## Jazz standards with a Barry Harris-inspired notation.
 
